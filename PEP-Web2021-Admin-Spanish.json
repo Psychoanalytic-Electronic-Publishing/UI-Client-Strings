@@ -14,9 +14,9 @@
       },
       {
         "sourceCode": "AIM",
-        "previewHTML": "<p> American Imago fue fundada por Sigmund Freud y Hanns Sachs en los EE. UU. en 1939 como sucesora de Imago, fundada por Freud, Sachs y Otto Rank en Viena en 1912. Habiendo celebrado su centenario en 2012, la revista conserva su lustre como la principal revista académica de psicoanálisis. Cada número presenta artículos de vanguardia que exploran la relevancia perdurable del legado de Freud en las humanidades, las artes y las ciencias sociales. </p>",
+        "previewHTML": "<p> American Imago fue fundada por Sigmund Freud y Hanns Sachs en los EE. UU. en 1939 como sucesora de Imago, fundada por Freud, Sachs y Otto Rank en Viena en 1912. Habiendo celebrado su centenario en 2012, la revista conserva su lustre como la principal revista acad\u00e9mica de psicoan\u00e1lisis. Cada n\u00famero presenta art\u00edculos de vanguardia que exploran la relevancia perdurable del legado de Freud en las humanidades, las artes y las ciencias sociales. </p>",
         "embargoYears": "5",
-        "fullHTML": "<p>American Imago fue fundada por Sigmund Freud y Hanns Sachs en los Estados Unidos en 1939 como sucesora de Imago, fundada por Freud, Sachs y Otto Rank en Viena en 1912. Habiendo celebrado su centenario en 2012, la revista conserva su brillo como la principal revista académica de psicoanálisis. Cada número presenta artículos de vanguardia que exploran la relevancia perdurable del legado de Freud en las humanidades, las artes y las ciencias sociales. </p>\n <p> Editor <br /> Murray M. Schwartz </p>\n <p> Editor asociado de cine <br /> Catherine Portuges </p>\n <p> Editores asociados <br /> Vera J. Camden </p>\n <p> David Willbern </p>\n <p > Editora en jefe <br /> Melissa Skepko </p>\n <p> PUBLICADO POR Johns Hopkins University Press </p>",
+        "fullHTML": "<p>American Imago fue fundada por Sigmund Freud y Hanns Sachs en los Estados Unidos en 1939 como sucesora de Imago, fundada por Freud, Sachs y Otto Rank en Viena en 1912. Habiendo celebrado su centenario en 2012, la revista conserva su brillo como la principal revista acad\u00e9mica de psicoan\u00e1lisis. Cada n\u00famero presenta art\u00edculos de vanguardia que exploran la relevancia perdurable del legado de Freud en las humanidades, las artes y las ciencias sociales. </p>\n <p> Editor <br /> Murray M. Schwartz </p>\n <p> Editor asociado de cine <br /> Catherine Portuges </p>\n <p> Editores asociados <br /> Vera J. Camden </p>\n <p> David Willbern </p>\n <p > Editora en jefe <br /> Melissa Skepko </p>\n <p> PUBLICADO POR Johns Hopkins University Press </p>",
         "url": "http://muse.jhu.edu/journals/aim/",
         "ver": "2021-03-05"
       },
@@ -29,9 +29,9 @@
       },
       {
         "sourceCode": "AJP",
-        "previewHTML": "<p> American Journal of Psychoanalysis (1941 &ndash; actual) &nbsp; </p>\n <p> Esta revista ofrece un foro internacional para una amplia gama de conceptos teóricos, clínicos, profesionales y culturales contemporáneos del psicoanálisis, y para presentando investigaciones relacionadas en campos afines. </p>",
+        "previewHTML": "<p> American Journal of Psychoanalysis (1941 &ndash; actual) &nbsp; </p>\n <p> Esta revista ofrece un foro internacional para una amplia gama de conceptos te\u00f3ricos, cl\u00ednicos, profesionales y culturales contempor\u00e1neos del psicoan\u00e1lisis, y para presentando investigaciones relacionadas en campos afines. </p>",
         "embargoYears": "3",
-        "fullHTML": "<div> <strong> Editor: </strong> &nbsp; Giselle Galdi </div>\n <div class=\"row\">\n <div class=\"column medium-6\">\n <ul>\n <li> <strong> ISSN </strong>: 0002-9548 (impreso) </li>\n <li> <strong> ISSN </strong>: 1573-6741 (electrónico) </li>\n <li> <strong> Número de diario </strong>: 11231 </li>\n </ul>\n </div>\n <div class=\"column medium-12\">\n <section class=\"usp\">\n <ul class=\"article-body\">\n <li> Abarca conceptos clínicos y teóricos contemporáneos del psicoanálisis </li>\n <li> Bien establecido, con más de 75 años en publicación </li>\n <li> Afiliado a la Asociación para el Avance del Psicoanálisis </li>\n </ul>\n </section>\n </div>\n </div>",
+        "fullHTML": "<div> <strong> Editor: </strong> &nbsp; Giselle Galdi </div>\n <div class=\"row\">\n <div class=\"column medium-6\">\n <ul>\n <li> <strong> ISSN </strong>: 0002-9548 (impreso) </li>\n <li> <strong> ISSN </strong>: 1573-6741 (electr\u00f3nico) </li>\n <li> <strong> N\u00famero de diario </strong>: 11231 </li>\n </ul>\n </div>\n <div class=\"column medium-12\">\n <section class=\"usp\">\n <ul class=\"article-body\">\n <li> Abarca conceptos cl\u00ednicos y te\u00f3ricos contempor\u00e1neos del psicoan\u00e1lisis </li>\n <li> Bien establecido, con m\u00e1s de 75 a\u00f1os en publicaci\u00f3n </li>\n <li> Afiliado a la Asociaci\u00f3n para el Avance del Psicoan\u00e1lisis </li>\n </ul>\n </section>\n </div>\n </div>",
         "url": "https://www.palgrave.com/gp/journal/11231"
       },
       {
@@ -100,8 +100,8 @@
       {
         "sourceCode": "APA",
         "embargoYears": "3",
-        "previewHTML": "<p> Revista de la Asociación Psicoanalítica Estadounidense (1953 &ndash; actual) </p>\n <p> La Asociación Psicoanalítica Estadounidense (APsaA) es la organización psicoanalítica nacional más antigua de la nación. APsaA como organización profesional para psicoanalistas, se centra en la educación, la investigación y el desarrollo de miembros. Además de la organización nacional, la membresía de APsaA incluye 33 &nbsp; institutos de formación aprobados &nbsp; y 38 sociedades afiliadas &nbsp; en todo Estados Unidos. Desde su fundación, APsaA ha sido un componente de la &nbsp; Asociación Psicoanalítica Internacional, &nbsp; la organización psicoanalítica más grande del mundo. </p>",
-        "fullHTML": "<p> La Asociación Psicoanalítica Estadounidense (APsaA) es la organización psicoanalítica nacional más antigua de la nación. APsaA como organización profesional para psicoanalistas, se centra en la educación, la investigación y el desarrollo de miembros. Además de la organización nacional, la membresía de APsaA incluye 33 &nbsp; institutos de formación aprobados &nbsp; y 38 sociedades afiliadas &nbsp; en todo Estados Unidos. Desde su fundación, APsaA ha sido un componente de la &nbsp; Asociación Psicoanalítica Internacional, &nbsp; la organización psicoanalítica más grande del mundo. </p>\n <p> La misión de APsaA es promover activamente su visión dentro del marco de las siguientes áreas de objetivos: </p>\n <ul>\n <li> Educación y desarrollo profesional </li>\n <li> Investigación y becas </li>\n <li> Promoción y relaciones públicas </li>\n <li> Marketing, avance y comunicaciones </li>\n <li> Membresía, instituto, centro y operaciones de la sociedad local </li>\n <li> Gobernanza y gestión </li>\n </ul>",
+        "previewHTML": "<p> Revista de la Asociaci\u00f3n Psicoanal\u00edtica Estadounidense (1953 &ndash; actual) </p>\n <p> La Asociaci\u00f3n Psicoanal\u00edtica Estadounidense (APsaA) es la organizaci\u00f3n psicoanal\u00edtica nacional m\u00e1s antigua de la naci\u00f3n. APsaA como organizaci\u00f3n profesional para psicoanalistas, se centra en la educaci\u00f3n, la investigaci\u00f3n y el desarrollo de miembros. Adem\u00e1s de la organizaci\u00f3n nacional, la membres\u00eda de APsaA incluye 33 &nbsp; institutos de formaci\u00f3n aprobados &nbsp; y 38 sociedades afiliadas &nbsp; en todo Estados Unidos. Desde su fundaci\u00f3n, APsaA ha sido un componente de la &nbsp; Asociaci\u00f3n Psicoanal\u00edtica Internacional, &nbsp; la organizaci\u00f3n psicoanal\u00edtica m\u00e1s grande del mundo. </p>",
+        "fullHTML": "<p> La Asociaci\u00f3n Psicoanal\u00edtica Estadounidense (APsaA) es la organizaci\u00f3n psicoanal\u00edtica nacional m\u00e1s antigua de la naci\u00f3n. APsaA como organizaci\u00f3n profesional para psicoanalistas, se centra en la educaci\u00f3n, la investigaci\u00f3n y el desarrollo de miembros. Adem\u00e1s de la organizaci\u00f3n nacional, la membres\u00eda de APsaA incluye 33 &nbsp; institutos de formaci\u00f3n aprobados &nbsp; y 38 sociedades afiliadas &nbsp; en todo Estados Unidos. Desde su fundaci\u00f3n, APsaA ha sido un componente de la &nbsp; Asociaci\u00f3n Psicoanal\u00edtica Internacional, &nbsp; la organizaci\u00f3n psicoanal\u00edtica m\u00e1s grande del mundo. </p>\n <p> La misi\u00f3n de APsaA es promover activamente su visi\u00f3n dentro del marco de las siguientes \u00e1reas de objetivos: </p>\n <ul>\n <li> Educaci\u00f3n y desarrollo profesional </li>\n <li> Investigaci\u00f3n y becas </li>\n <li> Promoci\u00f3n y relaciones p\u00fablicas </li>\n <li> Marketing, avance y comunicaciones </li>\n <li> Membres\u00eda, instituto, centro y operaciones de la sociedad local </li>\n <li> Gobernanza y gesti\u00f3n </li>\n </ul>",
         "url": "https://journals.sagepub.com/home/apa"
       },
       {
@@ -178,7 +178,7 @@
         "sourceCode": "FD",
         "previewHTML": "<p>Fort Da</p>",
         "embargoYears": "3",
-        "fullHTML": "<p> Un afiliado regional de la División de Psicoanálisis (39), Asociación Americana de Psicología </p>\n <p> fort da es una revista psicoanalítica que proporciona un foro para los profesionales del Área de la Bahía de San Francisco, así como para pensadores nacionales e internacionales. y médicos. fort da publica trabajos sobre teoría psicoanalítica, práctica, investigación y psicoanálisis aplicado, en forma de artículos, reseñas, entrevistas, ensayos, comentarios y poesía. </p>\n <p> fort da anima a los escritores a presentar sus ideas y visiones sobre el psicoanálisis, tanto dentro como fuera del consultorio, dando voz a las múltiples formas en que el pensamiento psicoanalítico enriquece la vida. Apoyamos estilos creativos, evocadores y asociativos en lugar de un formato estrictamente académico, fomentando material que sea a la vez accesible, animado y de alto nivel intelectual. </p>",
+        "fullHTML": "<p> Un afiliado regional de la Divisi\u00f3n de Psicoan\u00e1lisis (39), Asociaci\u00f3n Americana de Psicolog\u00eda </p>\n <p> fort da es una revista psicoanal\u00edtica que proporciona un foro para los profesionales del \u00c1rea de la Bah\u00eda de San Francisco, as\u00ed como para pensadores nacionales e internacionales. y m\u00e9dicos. fort da publica trabajos sobre teor\u00eda psicoanal\u00edtica, pr\u00e1ctica, investigaci\u00f3n y psicoan\u00e1lisis aplicado, en forma de art\u00edculos, rese\u00f1as, entrevistas, ensayos, comentarios y poes\u00eda. </p>\n <p> fort da anima a los escritores a presentar sus ideas y visiones sobre el psicoan\u00e1lisis, tanto dentro como fuera del consultorio, dando voz a las m\u00faltiples formas en que el pensamiento psicoanal\u00edtico enriquece la vida. Apoyamos estilos creativos, evocadores y asociativos en lugar de un formato estrictamente acad\u00e9mico, fomentando material que sea a la vez accesible, animado y de alto nivel intelectual. </p>",
         "url": "http://www.ncspp.org/fortda/"
       },
       {
@@ -212,7 +212,7 @@
       {
         "sourceCode": "IJP",
         "previewHTML": "<p>International Journal of Psycho-Analysis</p><p>Journal information</p><p>Print ISSN: 0020-7578 Online ISSN: 1745-8315</p><p>6 issues per year</p>",
-        "fullHTML": "<p>Journal information<cr/><cr/>Print ISSN: 0020-7578 Online ISSN: 1745-8315<cr/>6 issues per year</p><p>The International Journal of Psychoanalysis es una revista revisada por pares que se publica seis veces al año (febrero, abril, junio, agosto, octubre y diciembre) desde su fusión con The International Review of Psycho-Analysis en 1994. Publica extensas contribuciones de autores a lo largo de el mundo: facilitado por un sistema de juntas editoriales internacionales y la política de permitir la presentación y revisión en seis idiomas, seguida de la traducción de los artículos aceptados a cargo de la Revista. </p> <p> Fundada originalmente por Ernest Jones en colaboración con Sigmund Freud en 1920, la revista publica contribuciones sobre teoría y técnica psicoanalíticas, historia del psicoanálisis, contribuciones clínicas, educación y cuestiones profesionales, psicoterapia psicoanalítica, estudios interdisciplinarios y ensayos cinematográficos. La Revista también publica los artículos principales y los informes de los paneles de los Congresos, reseñas de libros, obituarios y correspondencia de la Asociación Psicoanalítica Internacional. </p> <p> La Revista también publica artículos seleccionados en los Anuales del IJP que actualmente se ofrecen en ocho idiomas diferentes.</p>",
+        "fullHTML": "<p>Journal information<cr/><cr/>Print ISSN: 0020-7578 Online ISSN: 1745-8315<cr/>6 issues per year</p><p>The International Journal of Psychoanalysis es una revista revisada por pares que se publica seis veces al a\u00f1o (febrero, abril, junio, agosto, octubre y diciembre) desde su fusi\u00f3n con The International Review of Psycho-Analysis en 1994. Publica extensas contribuciones de autores a lo largo de el mundo: facilitado por un sistema de juntas editoriales internacionales y la pol\u00edtica de permitir la presentaci\u00f3n y revisi\u00f3n en seis idiomas, seguida de la traducci\u00f3n de los art\u00edculos aceptados a cargo de la Revista. </p> <p> Fundada originalmente por Ernest Jones en colaboraci\u00f3n con Sigmund Freud en 1920, la revista publica contribuciones sobre teor\u00eda y t\u00e9cnica psicoanal\u00edticas, historia del psicoan\u00e1lisis, contribuciones cl\u00ednicas, educaci\u00f3n y cuestiones profesionales, psicoterapia psicoanal\u00edtica, estudios interdisciplinarios y ensayos cinematogr\u00e1ficos. La Revista tambi\u00e9n publica los art\u00edculos principales y los informes de los paneles de los Congresos, rese\u00f1as de libros, obituarios y correspondencia de la Asociaci\u00f3n Psicoanal\u00edtica Internacional. </p> <p> La Revista tambi\u00e9n publica art\u00edculos seleccionados en los Anuales del IJP que actualmente se ofrecen en ocho idiomas diferentes.</p>",
         "embargoYears": "3",
         "url": "https://www.tandfonline.com/toc/rips20/current"
       },
@@ -493,7 +493,7 @@
         "sourceCode": "RFP",
         "previewHTML": "<p>Revue fran\u00e7aise de psychanalyse</p>",
         "embargoYears": "5",
-        "fullHTML": "<p> Revista francesa líder desde 1927 y repositorio de muchos de los artículos más importantes de nuestra disciplina. Consulte los artículos de Freud, Lacan, Green, Chasseguet-Smirgel, McDougall, Viderman y muchos más. Agradecemos a Denys Ribas (ex editor y presidente de SPP), la Sociedad Psicoanalítica de París y su biblioteca y bibliotecarios (SPP), Christine Mique-Bez y Charles Ruelle (Presses Universitaires de France). </p>",
+        "fullHTML": "<p> Revista francesa l\u00edder desde 1927 y repositorio de muchos de los art\u00edculos m\u00e1s importantes de nuestra disciplina. Consulte los art\u00edculos de Freud, Lacan, Green, Chasseguet-Smirgel, McDougall, Viderman y muchos m\u00e1s. Agradecemos a Denys Ribas (ex editor y presidente de SPP), la Sociedad Psicoanal\u00edtica de Par\u00eds y su biblioteca y bibliotecarios (SPP), Christine Mique-Bez y Charles Ruelle (Presses Universitaires de France). </p>",
         "url": "https://www.google.com"
       },
       {
@@ -569,15 +569,15 @@
     ],
     "tour": {
       "home": {
-        "text": "<p>Este botón le lleva a la página principal (de inicio) de PEP-Web.</p>",
+        "text": "<p>Este bot\u00f3n le lleva a la p\u00e1gina principal (de inicio) de PEP-Web.</p>",
         "title": "Home"
       },
       "toggleLeft": {
-        "text": "<p>Este botón oculta (o muestra) el panel lateral izquierdo, para dejar más espacio para los artículos o para eliminar las distracciones mientras lee. &nbsp; &nbsp; </p>",
+        "text": "<p>Este bot\u00f3n oculta (o muestra) el panel lateral izquierdo, para dejar m\u00e1s espacio para los art\u00edculos o para eliminar las distracciones mientras lee. &nbsp; &nbsp; </p>",
         "title": "Search"
       },
       "toggleRight": {
-        "text": "<p>Este botón oculta (o muestra) el panel lateral derecho, para dejar más espacio para los artículos o para eliminar las distracciones mientras lee. &nbsp; &nbsp; </p>",
+        "text": "<p>Este bot\u00f3n oculta (o muestra) el panel lateral derecho, para dejar m\u00e1s espacio para los art\u00edculos o para eliminar las distracciones mientras lee. &nbsp; &nbsp; </p>",
         "title": "Widgets"
       },
       "mainNavigation": {
@@ -585,46 +585,46 @@
         "title": "Navigation"
       },
       "logo": {
-        "text": "<p>Hacer clic en nuestro logotipo es un acceso directo a la página de información y asistencia de PEP-Web. </p>",
+        "text": "<p>Hacer clic en nuestro logotipo es un acceso directo a la p\u00e1gina de informaci\u00f3n y asistencia de PEP-Web. </p>",
         "title": "Logo"
       }
     },
     "cards": {
       "videoPreview": {
-        "help": "Vea el último video de nuestro sistema aquí."
+        "help": "Vea el \u00faltimo video de nuestro sistema aqu\u00ed."
       },
       "topicalVideoPreview": {
         "help": "Guarda l'ultimo video di attualit\u00e0 nel nostro sistema qui."
       },
       "whatsNew": {
-        "help": "Las últimas incorporaciones a nuestro sistema se pueden ver aquí."
+        "help": "Las \u00faltimas incorporaciones a nuestro sistema se pueden ver aqu\u00ed."
       },
       "mostCited": {
-        "help": "Los documentos más citados en todo nuestro sistema se pueden ver aquí."
+        "help": "Los documentos m\u00e1s citados en todo nuestro sistema se pueden ver aqu\u00ed."
       },
       "mostViewed": {
-        "help": "Los documentos más vistos en todo nuestro sistema se pueden ver aquí."
+        "help": "Los documentos m\u00e1s vistos en todo nuestro sistema se pueden ver aqu\u00ed."
       },
       "relatedDocuments": {
-        "help": "Para los documentos que tienen artículos relacionados, el ícono {faIcon} aparecerá junto a la lista, lo que indica que el artículo es parte de una serie o tiene comentarios de seguimiento en la revista."
+        "help": "Para los documentos que tienen art\u00edculos relacionados, el \u00edcono {faIcon} aparecer\u00e1 junto a la lista, lo que indica que el art\u00edculo es parte de una serie o tiene comentarios de seguimiento en la revista."
       },
       "expertPicks": {
         "help": "Selecciones de expertos ... elegidas por expertos para ti."
       },
       "glossaryTerms": {
-        "help": "Al leer un documento, aparecerá aquí una nube de palabras de términos del glosario."
+        "help": "Al leer un documento, aparecer\u00e1 aqu\u00ed una nube de palabras de t\u00e9rminos del glosario."
       },
       "moreLikeThese": {
-        "help": "Mediante el análisis de texto y la inteligencia artificial (IA), el motor de búsqueda recomienda documentos similares al documento que está leyendo."
+        "help": "Mediante el an\u00e1lisis de texto y la inteligencia artificial (IA), el motor de b\u00fasqueda recomienda documentos similares al documento que est\u00e1 leyendo."
       },
       "readLater": {
-        "help": "Guarde aquí los elementos que desee leer más tarde. Tenga en cuenta que debe ser un usuario registrado e iniciado sesión en el sistema para utilizar esta función."
+        "help": "Guarde aqu\u00ed los elementos que desee leer m\u00e1s tarde. Tenga en cuenta que debe ser un usuario registrado e iniciado sesi\u00f3n en el sistema para utilizar esta funci\u00f3n."
       },
       "favorites": {
-        "help": "Puede guardar sus documentos favoritos para acceder fácilmente aquí. Tenga en cuenta que debe ser un usuario registrado e iniciado sesión en el sistema para utilizar esta función."
+        "help": "Puede guardar sus documentos favoritos para acceder f\u00e1cilmente aqu\u00ed. Tenga en cuenta que debe ser un usuario registrado e iniciado sesi\u00f3n en el sistema para utilizar esta funci\u00f3n."
       },
       "publisherInfo": {
-        "help": "La información del editor del documento actual que está viendo aparecerá aquí. Estos datos se finalizarán en la versión de producción."
+        "help": "La informaci\u00f3n del editor del documento actual que est\u00e1 viendo aparecer\u00e1 aqu\u00ed. Estos datos se finalizar\u00e1n en la versi\u00f3n de producci\u00f3n."
       }
     },
     "signInCard": {
@@ -637,49 +637,49 @@
       {
         "id": "login",
         "value": "<p>test</p>"
-    }
+      }
     ]
   },
   "home": {
     "intro": {
-      "left": "<p><span style=\"font-size: 14pt;\">\u25c0\ufe0f</span><strong> Your Search Begins Here!&nbsp; </strong>PEPWEB contains more than 136,000 articles covering over a million pages.&nbsp; To use it to your advantage, SEARCH!</p>\n<ul>\n<li>\"What are you looking for?\" The top box to the left takes all kinds of search inputs.\n<ul>\n<li>Type in some psychoanalytic terms - <strong>to get useful results and to avoid a deluge, enter two or three at a time.</strong>&nbsp;&nbsp;<br />&nbsp; &nbsp;Doing that will make the search more precise, returning only the most relevant results.</li>\n<li>Or paste a reference from an article into the field</li>\n<li>Or type a Journal name or part of a journal name</li>\n<li>Or type an Author name</li>\n</ul>\n</li>\n<li>For tips and more information about other ways to search, see our <a title=\"Search Help\" href=\"https://fb.watch/4634xBWSZF/\" target=\"_blank\" rel=\"noopener\">Search Help video</a></li>\n</ul>",
-      "right": "<p><strong>Some Special Features</strong></p>\n<ul>\n<li><a href=\"../../browse/document/PEPTOPAUTHVS.001.0021A\">Fully Text Searchable Videos from leading psychoanalysts</a>&nbsp;<br /><a href=\"../../browse/document/PEPTOPAUTHVS.001.0021A\"><img src=\"https://pep-web-video-previews.s3.amazonaws.com/pepvideomatrix.jpg\" alt=\"\" width=\"386\" height=\"197\" /></a></li>\n</ul>\n<ul>\n<li>Translate texts into your language (on Google Chrome)</li>\n<li><a href=\"../../browse/book/gw\">Freud in his original German</a> (paragraph linked to the Standard Edition)</li>\n<li><a href=\"../../browse/book/se\">Freud in the Standard Edition</a> English translation (paragraph linked to original German)</li>\n<li>Personalised suggestions and saved articles.</li>\n</ul>"
+      "left": "<p><span style=\"font-size: 14pt;\">\u25c0\ufe0f</span> <strong> Tu busqueda comienza aqui! &nbsp; </strong> PEPWEB contiene m&aacute;s de 136.000 art&iacute;culos que cubren m&aacute;s de un mill&oacute;n de p&aacute;ginas. &nbsp; Para usarlo a tu favor, &iexcl;BUSCA!</p>\n<ul>\n<li>\"&iquest;Qu&eacute; est&aacute;s buscando?\" El cuadro superior a la izquierda admite todo tipo de entradas de b&uacute;squeda.\n<ul>\n<li>Escriba algunos t&eacute;rminos psicoanal&iacute;ticos: <strong> para obtener resultados &uacute;tiles y evitar un diluvio, ingrese dos o tres a la vez.</strong> &nbsp; &nbsp; <br />&nbsp; &nbsp; Hacer eso har&aacute; que la b&uacute;squeda sea m&aacute;s precisa y devolver&aacute; solo los resultados m&aacute;s relevantes.</li>\n<li>O pegue una referencia de un art&iacute;culo en el campo</li>\n<li>O escriba una revista nombre o parte del nombre de una revista</li>\n<li>Or type an Author name</li>\n</ul>\n</li>\n<li>For tips and more information about other ways to search, see our <a title=\"Search Help\" href=\"https://fb.watch/4634xBWSZF/\" target=\"_blank\" rel=\"noopener\">Search Help video</a></li>\n</ul>",
+      "right": "<p><strong>Algunas caracter&iacute;sticas especiales</strong></p>\n<ul>\n<li><a href=\"../../browse/document/PEPTOPAUTHVS.001.0021A\">V&iacute;deos de b&uacute;squeda de texto completo de psicoanalistas destacados</a>&nbsp;<br /><a href=\"../../browse/document/PEPTOPAUTHVS.001.0021A\"><img src=\"https://pep-web-video-previews.s3.amazonaws.com/pepvideomatrix.jpg\" alt=\"\" width=\"386\" height=\"197\" /></a></li>\n<li>Traduce textos a tu idioma (en Google Chrome)</li>\n<li>Freud en su alem&aacute;n original (p&aacute;rrafo vinculado a la edici&oacute;n est&aacute;ndar)</li>\n<li>Freud en la traducci&oacute;n al ingl&eacute;s de la edici&oacute;n est&aacute;ndar (p&aacute;rrafo vinculado al alem&aacute;n original)</li>\n<li>Sugerencias personalizadas y art&iacute;culos guardados.</li>\n</ul>"
     },
     "newsAndInfo": {
       "boxOne": {
-        "heading": "79 revistas psicoanalíticas de primer nivel",
+        "heading": "79 revistas psicoanal\u00edticas de primer nivel",
         "body": "<div style=\"background-image: url('https://pep-web-gui.s3.amazonaws.com/journal_composite.jpg');\">\n<p>PEP-Web is the quintessential archive of psychoanalytic scholarship,</p>\n<p>with the full text of 79 premier journals dating back to 1911,</p>\n<p>cross-linked to each other, and where a multi-source psychoanalytic glossary</p>\n<p>is a click away for any psychoanalytic term. There are over 136 thousand articles</p>\n<p>totaling over 1.2 million printed pages</p>\n</div>"
       },
       "boxTwo": {
-        "heading": "100 libros psicoanalíticos clásicos",
+        "heading": "100 libros psicoanal\u00edticos cl\u00e1sicos",
         "body": "<p>The PEP-Web Archive has the complete content of the Standard Edition of the Complete Psychological Works of Sigmund Freud and the 19 volume German Freud Standard Edition Gesammelte Werke, and includes a concordance between editions where corresponding paragraphs are cross-linked. The Archive also contains 100 classic psychoanalytic books, including classic authors such as Bion, Bowlby, Klein, Meltzer, Winnicott, and many more.</p>"
       }
     },
     "expertPickOfTheDay": {
-      "help": "Todos los días sugeriremos un artículo de referencia en Psicoanálisis, y otros artículos que creemos que deberían ser de interés para los suscriptores. "
+      "help": "Todos los d\u00edas sugeriremos un art\u00edculo de referencia en Psicoan\u00e1lisis, y otros art\u00edculos que creemos que deber\u00edan ser de inter\u00e9s para los suscriptores. "
     }
   },
   "search": {
     "tooManyResults": {
-      "instructions": "Ingrese al menos dos términos, criterios adicionales y /o use el formulario 'Refinar' a continuación para aumentar la precisión de la búsqueda."
+      "instructions": "Ingrese al menos dos t\u00e9rminos, criterios adicionales y /o use el formulario 'Refinar' a continuaci\u00f3n para aumentar la precisi\u00f3n de la b\u00fasqueda."
     },
     "smartSearch": {
-      "help": "SmartSearch, basado en la semántica de lo que ingresa. Puede reconocer una cita (autor y año) o referencia en formato APA, un DOI, una ID de artículo PEP (por ejemplo, PAQ.073.0005A), un nombre de autor o varios (con el caso apropiado). Ingrese palabras o frases y las buscará en cualquier parte del documento. "
+      "help": "SmartSearch, basado en la sem\u00e1ntica de lo que ingresa. Puede reconocer una cita (autor y a\u00f1o) o referencia en formato APA, un DOI, una ID de art\u00edculo PEP (por ejemplo, PAQ.073.0005A), un nombre de autor o varios (con el caso apropiado). Ingrese palabras o frases y las buscar\u00e1 en cualquier parte del documento. "
     },
     "matchSynonyms": {
-      "help": "Devolver resultados que también coincidan con sinónimos con los términos de búsqueda ingresados, utilizando los glosarios psicoanalíticos como base"
+      "help": "Devolver resultados que tambi\u00e9n coincidan con sin\u00f3nimos con los t\u00e9rminos de b\u00fasqueda ingresados, utilizando los glosarios psicoanal\u00edticos como base"
     },
     "limitTo": {
-      "help": "Al hacer clic en esto, se agregan nuevos controles de búsqueda para restringir los resultados de la búsqueda a documentos con un número específico de citas o vistas."
+      "help": "Al hacer clic en esto, se agregan nuevos controles de b\u00fasqueda para restringir los resultados de la b\u00fasqueda a documentos con un n\u00famero espec\u00edfico de citas o vistas."
     },
     "hitsInContext": {
-      "help": "Muestra un resumen de los resultados con algún contexto de documento."
+      "help": "Muestra un resumen de los resultados con alg\u00fan contexto de documento."
     },
     "terms": {
       "types": {
         "everywhere": {
-          "prompt": "Términos o frase",
-          "help": "Busque palabras en el mismo párrafo o frases de cualquier parte del documento, incluidos resúmenes y referencias. Rodee las frases con comillas."
+          "prompt": "T\u00e9rminos o frase",
+          "help": "Busque palabras en el mismo p\u00e1rrafo o frases de cualquier parte del documento, incluidos res\u00famenes y referencias. Rodee las frases con comillas."
         },
         "author": {
           "prompt": "Nombre del autor",
@@ -688,35 +688,35 @@
         },
         "title": {
           "prompt": "Titulo del documento",
-          "help": "Busque palabras o frases dentro de los títulos de los documentos. Rodee las frases con comillas."
+          "help": "Busque palabras o frases dentro de los t\u00edtulos de los documentos. Rodee las frases con comillas."
         },
         "dream": {
-          "prompt": "Términos o frase",
-          "help": "Busque palabras en el mismo párrafo o frases en áreas de documentos que sean oníricas. Rodee las frases con comillas."
+          "prompt": "T\u00e9rminos o frase",
+          "help": "Busque palabras en el mismo p\u00e1rrafo o frases en \u00e1reas de documentos que sean on\u00edricas. Rodee las frases con comillas."
         },
         "quote": {
-          "prompt": "Términos o frase",
-          "help": "Busque palabras en el mismo párrafo o frases en áreas de documentos que son pasajes citados. Rodee las frases con comillas."
+          "prompt": "T\u00e9rminos o frase",
+          "help": "Busque palabras en el mismo p\u00e1rrafo o frases en \u00e1reas de documentos que son pasajes citados. Rodee las frases con comillas."
         },
         "reference": {
-          "prompt": "Términos o frase",
-          "help": "Busque palabras en la misma referencia, o frases, en la sección de referencias (bibliografías) de los documentos. Rodee las frases con comillas."
+          "prompt": "T\u00e9rminos o frase",
+          "help": "Busque palabras en la misma referencia, o frases, en la secci\u00f3n de referencias (bibliograf\u00edas) de los documentos. Rodee las frases con comillas."
         },
         "dialog": {
-          "prompt": "Términos o frase",
-          "help": "Busque palabras en el mismo párrafo o frases en áreas de documentos que son diálogos entre personas. Rodee las frases con comillas."
+          "prompt": "T\u00e9rminos o frase",
+          "help": "Busque palabras en el mismo p\u00e1rrafo o frases en \u00e1reas de documentos que son di\u00e1logos entre personas. Rodee las frases con comillas."
         },
         "article": {
-          "prompt": "Términos o frase",
-          "help": "Busque palabras en el mismo párrafo o frases en cualquier parte del documento EXCEPTO en resúmenes, resúmenes y referencias. Rodee las frases con comillas."
+          "prompt": "T\u00e9rminos o frase",
+          "help": "Busque palabras en el mismo p\u00e1rrafo o frases en cualquier parte del documento EXCEPTO en res\u00famenes, res\u00famenes y referencias. Rodee las frases con comillas."
         },
         "startYear": {
-          "prompt": "Año de publicación",
-          "help": "Buscar documentos publicados en o antes o después de un año, o dentro de un rango de años (p. Ej.,\"1999\",\"<1999\",\">1999\",\"1999-2010\")"
+          "prompt": "A\u00f1o de publicaci\u00f3n",
+          "help": "Buscar documentos publicados en o antes o despu\u00e9s de un a\u00f1o, o dentro de un rango de a\u00f1os (p. Ej.,\"1999\",\"<1999\",\">1999\",\"1999-2010\")"
         },
         "endYear": {
-          "prompt": "Año de publicación",
-          "help": "Buscar documentos publicados en o antes o después de un año, o dentro de un rango de años (p. Ej.,\"1999\",\"<1999\",\">1999\",\"1999-2010\")"
+          "prompt": "A\u00f1o de publicaci\u00f3n",
+          "help": "Buscar documentos publicados en o antes o despu\u00e9s de un a\u00f1o, o dentro de un rango de a\u00f1os (p. Ej.,\"1999\",\"<1999\",\">1999\",\"1999-2010\")"
         }
       }
     }
