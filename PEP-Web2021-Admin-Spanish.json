@@ -1,0 +1,724 @@
+{
+  "global": {
+    "tips": {
+      "isEnabled": true,
+      "list": []
+    },
+    "publishers": [
+      {
+        "sourceCode": "ADATERECORD",
+        "previewHTML": "<p>Preload Version 2021-04-18.1</p>",
+        "fullHTML": "<p>Just to record file date</p>",
+        "embargoYears": "0",
+        "url": "http://www.google.com"
+      },
+      {
+        "sourceCode": "AIM",
+        "previewHTML": "<p> American Imago fue fundada por Sigmund Freud y Hanns Sachs en los EE. UU. en 1939 como sucesora de Imago, fundada por Freud, Sachs y Otto Rank en Viena en 1912. Habiendo celebrado su centenario en 2012, la revista conserva su lustre como la principal revista académica de psicoanálisis. Cada número presenta artículos de vanguardia que exploran la relevancia perdurable del legado de Freud en las humanidades, las artes y las ciencias sociales. </p>",
+        "embargoYears": "5",
+        "fullHTML": "<p>American Imago fue fundada por Sigmund Freud y Hanns Sachs en los Estados Unidos en 1939 como sucesora de Imago, fundada por Freud, Sachs y Otto Rank en Viena en 1912. Habiendo celebrado su centenario en 2012, la revista conserva su brillo como la principal revista académica de psicoanálisis. Cada número presenta artículos de vanguardia que exploran la relevancia perdurable del legado de Freud en las humanidades, las artes y las ciencias sociales. </p>\n <p> Editor <br /> Murray M. Schwartz </p>\n <p> Editor asociado de cine <br /> Catherine Portuges </p>\n <p> Editores asociados <br /> Vera J. Camden </p>\n <p> David Willbern </p>\n <p > Editora en jefe <br /> Melissa Skepko </p>\n <p> PUBLICADO POR Johns Hopkins University Press </p>",
+        "url": "http://muse.jhu.edu/journals/aim/",
+        "ver": "2021-03-05"
+      },
+      {
+        "sourceCode": "ADPSA",
+        "previewHTML": "<p>Almanach der Psychoanalyse (German; 1926 &ndash; 1938)</p>",
+        "embargoYears": "0",
+        "fullHTML": "<p>Almanach der Psychoanalyse (German; 1926 &ndash; 1938)</p>",
+        "url": "https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/almanach-der-psychoanalyse"
+      },
+      {
+        "sourceCode": "AJP",
+        "previewHTML": "<p> American Journal of Psychoanalysis (1941 &ndash; actual) &nbsp; </p>\n <p> Esta revista ofrece un foro internacional para una amplia gama de conceptos teóricos, clínicos, profesionales y culturales contemporáneos del psicoanálisis, y para presentando investigaciones relacionadas en campos afines. </p>",
+        "embargoYears": "3",
+        "fullHTML": "<div> <strong> Editor: </strong> &nbsp; Giselle Galdi </div>\n <div class=\"row\">\n <div class=\"column medium-6\">\n <ul>\n <li> <strong> ISSN </strong>: 0002-9548 (impreso) </li>\n <li> <strong> ISSN </strong>: 1573-6741 (electrónico) </li>\n <li> <strong> Número de diario </strong>: 11231 </li>\n </ul>\n </div>\n <div class=\"column medium-12\">\n <section class=\"usp\">\n <ul class=\"article-body\">\n <li> Abarca conceptos clínicos y teóricos contemporáneos del psicoanálisis </li>\n <li> Bien establecido, con más de 75 años en publicación </li>\n <li> Afiliado a la Asociación para el Avance del Psicoanálisis </li>\n </ul>\n </section>\n </div>\n </div>",
+        "url": "https://www.palgrave.com/gp/journal/11231"
+      },
+      {
+        "sourceCode": "AJRPP",
+        "previewHTML": "<p>Attachment: New Directions in Relational Psychoanalysis and Psychotherapy</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "https://firingthemind.com/product/journals/att-12-2/"
+      },
+      {
+        "sourceCode": "ANIJP-CHI",
+        "previewHTML": "<p>Chinese Annual of Psychoanalysis</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "http://www.theijp.org/annuals/"
+      },
+      {
+        "sourceCode": "ANIJP-DE",
+        "previewHTML": "<p>Internationale Psychoanalyse (German) </p>",
+        "embargoYears": "3",
+        "fullHTML": "<p>Internationale Psychoanalyse (German) </p>",
+        "url": "www.psychosozial-verlag.de"
+      },
+      {
+        "sourceCode": "ANIJP-EL",
+        "previewHTML": "<p>\u0395\u03c4\u03ae\u03c3\u03b9\u03b1\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03ad\u03ba\u03b4\u03bf\u03c3\u03b7 (IJP Annual (Greek))</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p>\u0395\u03c4\u03ae\u03c3\u03b9\u03b1\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03ad\u03ba\u03b4\u03bf\u03c3\u03b7 (IJP Annual (Greek))</p>",
+        "url": "http://annualsofpsychoanalysis.com/"
+      },
+      {
+        "sourceCode": "ANIJP-FR",
+        "previewHTML": "<p>L'Annee Psychanalytique Internationale (French)</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "http://frannuel.com/volumes.html"
+      },
+      {
+        "sourceCode": "ANIJP-IT",
+        "previewHTML": "<p>L'Annata Psicoanalytica Internazionale (Italian) </p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "http://www.theijp.org/annuals/"
+      },
+      {
+        "sourceCode": "ANIJP-TR",
+        "previewHTML": "<p>Uluslararas\u0131 Psikanaliz Y\u0131ll\u0131\u011f\u0131</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "http://www.theijp.org/annuals/"
+      },
+      {
+        "sourceCode": "ANRP",
+        "previewHTML": "<p>The Italian Psychoanalytic Annual (English) (Annual for Rivista di Psicoanalisi).</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "http://icepj.org/italian-psychoanalytic-annual/"
+      },
+      {
+        "sourceCode": "AOP",
+        "embargoYears": "3",
+        "previewHTML": "<p>Annual of Psychoanalysis (1973 &ndash; current)</p>",
+        "fullHTML": "<p>Annual of Psychoanalysis (1973 &ndash; current)</p>",
+        "url": "https://www.tandfonline.com"
+      },
+      {
+        "sourceCode": "APA",
+        "embargoYears": "3",
+        "previewHTML": "<p> Revista de la Asociación Psicoanalítica Estadounidense (1953 &ndash; actual) </p>\n <p> La Asociación Psicoanalítica Estadounidense (APsaA) es la organización psicoanalítica nacional más antigua de la nación. APsaA como organización profesional para psicoanalistas, se centra en la educación, la investigación y el desarrollo de miembros. Además de la organización nacional, la membresía de APsaA incluye 33 &nbsp; institutos de formación aprobados &nbsp; y 38 sociedades afiliadas &nbsp; en todo Estados Unidos. Desde su fundación, APsaA ha sido un componente de la &nbsp; Asociación Psicoanalítica Internacional, &nbsp; la organización psicoanalítica más grande del mundo. </p>",
+        "fullHTML": "<p> La Asociación Psicoanalítica Estadounidense (APsaA) es la organización psicoanalítica nacional más antigua de la nación. APsaA como organización profesional para psicoanalistas, se centra en la educación, la investigación y el desarrollo de miembros. Además de la organización nacional, la membresía de APsaA incluye 33 &nbsp; institutos de formación aprobados &nbsp; y 38 sociedades afiliadas &nbsp; en todo Estados Unidos. Desde su fundación, APsaA ha sido un componente de la &nbsp; Asociación Psicoanalítica Internacional, &nbsp; la organización psicoanalítica más grande del mundo. </p>\n <p> La misión de APsaA es promover activamente su visión dentro del marco de las siguientes áreas de objetivos: </p>\n <ul>\n <li> Educación y desarrollo profesional </li>\n <li> Investigación y becas </li>\n <li> Promoción y relaciones públicas </li>\n <li> Marketing, avance y comunicaciones </li>\n <li> Membresía, instituto, centro y operaciones de la sociedad local </li>\n <li> Gobernanza y gestión </li>\n </ul>",
+        "url": "https://journals.sagepub.com/home/apa"
+      },
+      {
+        "sourceCode": "APM",
+        "previewHTML": "<p>Revista De Psicoanalisis - Asociacion Psicoanalitica de Madrid</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "https://apmadrid.org/interna.aspx?page=APM"
+      },
+      {
+        "sourceCode": "APS",
+        "previewHTML": "<p>Journal of Applied Psychoanalysis</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "https://www.google.com"
+      },
+      {
+        "sourceCode": "BAFC",
+        "previewHTML": "<p>Bulletin of the Anna Freud Centre</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "https://www.google.com"
+      },
+      {
+        "sourceCode": "BAP",
+        "previewHTML": "<p>Bulletin of the American Psychoanalytic Association</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "https://apsa.org/content/apsaa-publications"
+      },
+      {
+        "sourceCode": "BIP",
+        "previewHTML": "<p>Bulletin of the International Psycho-Analytical Association</p>",
+        "embargoYears": "0",
+        "fullHTML": "<p></p>",
+        "url": "https://www.ipa.world/en/e-communications/Archive.aspx"
+      },
+      {
+        "sourceCode": "BJP",
+        "previewHTML": "<p>British Journal of Psychotherapy </p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1752-0118"
+      },
+      {
+        "sourceCode": "CFP",
+        "previewHTML": "<p>Couple and Family Psychoanalysis</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "https://firingthemind.com/product/cfp/"
+      },
+      {
+        "sourceCode": "CJP",
+        "previewHTML": "<p>Canadian Journal of Psychoanalysis</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "http://academicjournals.ca/index.php/cjp-rcp/"
+      },
+      {
+        "sourceCode": "CPS",
+        "previewHTML": "<p>Contemporary Psychoanalysis</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p>The William Alanson White Institute and The William Alanson White Psychoanalytic Society</p>",
+        "url": "https://www.tandfonline.com/toc/uucp20/current"
+      },
+      {
+        "sourceCode": "DR",
+        "previewHTML": "<p>Division Review</p>",
+        "embargoYears": "0",
+        "fullHTML": "<p>DIVISION/Review is a forum for review essays, commentary, interviews and discussion in the field of psychoanalysis. It is open to viewpoints from across the spectrum of psychoanalytic schools and disciplines. DIVISION/Review primarily addresses topics related to clinical psychoanalysis but also cultural and intellectual fields beyond that focus.</p>\n<p>The full text of this journal is available up through the current issue for all PEP Archive subscribers.</p>",
+        "url": "https://www.apadivisions.org/division-39/publications/review"
+      },
+      {
+        "sourceCode": "FD",
+        "previewHTML": "<p>Fort Da</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p> Un afiliado regional de la División de Psicoanálisis (39), Asociación Americana de Psicología </p>\n <p> fort da es una revista psicoanalítica que proporciona un foro para los profesionales del Área de la Bahía de San Francisco, así como para pensadores nacionales e internacionales. y médicos. fort da publica trabajos sobre teoría psicoanalítica, práctica, investigación y psicoanálisis aplicado, en forma de artículos, reseñas, entrevistas, ensayos, comentarios y poesía. </p>\n <p> fort da anima a los escritores a presentar sus ideas y visiones sobre el psicoanálisis, tanto dentro como fuera del consultorio, dando voz a las múltiples formas en que el pensamiento psicoanalítico enriquece la vida. Apoyamos estilos creativos, evocadores y asociativos en lugar de un formato estrictamente académico, fomentando material que sea a la vez accesible, animado y de alto nivel intelectual. </p>",
+        "url": "http://www.ncspp.org/fortda/"
+      },
+      {
+        "sourceCode": "FA",
+        "previewHTML": "<p>Free Associations </p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "http://freeassociations.org.uk/FA_New/OJS/index.php/fa/issue/current"
+      },
+      {
+        "sourceCode": "GAP",
+        "previewHTML": "<p>Gender and Psychoanalysis</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "https://www.worldcat.org/title/gender-psychoanalysis/oclc/34917611"
+      },
+      {
+        "sourceCode": "IFP",
+        "previewHTML": "<p>International Forum of Psychoanalysis</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "https://www.tandfonline.com/toc/spsy20/current"
+      },
+      {
+        "sourceCode": "IJAPS",
+        "previewHTML": "<p>International Journal of Applied Psychoanalytic Studies</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1556-9187"
+      },
+      {
+        "sourceCode": "IJP",
+        "previewHTML": "<p>International Journal of Psycho-Analysis</p><p>Journal information</p><p>Print ISSN: 0020-7578 Online ISSN: 1745-8315</p><p>6 issues per year</p>",
+        "fullHTML": "<p>Journal information<cr/><cr/>Print ISSN: 0020-7578 Online ISSN: 1745-8315<cr/>6 issues per year</p><p>The International Journal of Psychoanalysis es una revista revisada por pares que se publica seis veces al año (febrero, abril, junio, agosto, octubre y diciembre) desde su fusión con The International Review of Psycho-Analysis en 1994. Publica extensas contribuciones de autores a lo largo de el mundo: facilitado por un sistema de juntas editoriales internacionales y la política de permitir la presentación y revisión en seis idiomas, seguida de la traducción de los artículos aceptados a cargo de la Revista. </p> <p> Fundada originalmente por Ernest Jones en colaboración con Sigmund Freud en 1920, la revista publica contribuciones sobre teoría y técnica psicoanalíticas, historia del psicoanálisis, contribuciones clínicas, educación y cuestiones profesionales, psicoterapia psicoanalítica, estudios interdisciplinarios y ensayos cinematográficos. La Revista también publica los artículos principales y los informes de los paneles de los Congresos, reseñas de libros, obituarios y correspondencia de la Asociación Psicoanalítica Internacional. </p> <p> La Revista también publica artículos seleccionados en los Anuales del IJP que actualmente se ofrecen en ocho idiomas diferentes.</p>",
+        "embargoYears": "3",
+        "url": "https://www.tandfonline.com/toc/rips20/current"
+      },
+      {
+        "sourceCode": "IJP-ES",
+        "previewHTML": "<p>International Journal of Psycho-Analysis en Espanol</p>",
+        "fullHTML": "<p></p>",
+        "embargoYears": "3",
+        "url": "https://www.tandfonline.com"
+      },
+      {
+        "sourceCode": "IJPSP",
+        "previewHTML": "<p>International Journal of Psychoanalytic Self Psychology</p>",
+        "fullHTML": "<p></p>",
+        "embargoYears": "3",
+        "url": "https://www.tandfonline.com/toc/hpsp20/10/1"
+      },
+      {
+        "sourceCode": "IMAGO",
+        "previewHTML": "<p>Imago</p>",
+        "fullHTML": "<p>Imago</p>",
+        "embargoYears": "3",
+        "url": "http://muse.jhu.edu/journals/aim/"
+      },
+      {
+        "sourceCode": "IPL",
+        "previewHTML": "<p>Preview HTML</p>",
+        "fullHTML": "<p></p>",
+        "embargoYears": "3",
+        "url": "https://www.google.com"
+      },
+      {
+        "sourceCode": "IRP",
+        "previewHTML": "<p>International Review of Psycho-Analysis</p>",
+        "fullHTML": "<p></p>",
+        "embargoYears": "3",
+        "url": "https://www.google.com"
+      },
+      {
+        "sourceCode": "IZPA",
+        "previewHTML": "<p>IZP - Internationale Zeitschrift f\u00fcr Psychoanalyse 2013-1941</p>",
+        "fullHTML": "<p></p>",
+        "embargoYears": "3",
+        "url": "https://www.google.com"
+      },
+      {
+        "sourceCode": "JAA",
+        "previewHTML": "<p>Journal of the American Academy of Psychoanalysis and Dynamic Psychiatry</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "https://www.google.com"
+      },
+      {
+        "sourceCode": "JBP",
+        "previewHTML": "<p>Jarbuch Der Psychoanalyse</p>",
+        "embargoYears": "2",
+        "fullHTML": "<p></p>",
+        "url": "https://www.google.com"
+      },
+      {
+        "sourceCode": "JCP",
+        "previewHTML": "<p>Journal of Clinical Psychoanalysis</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "https://www.google.com"
+      },
+      {
+        "sourceCode": "JCPTX",
+        "previewHTML": "<p>Journal of Child Psychotherapy </p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "https://www.google.com"
+      },
+      {
+        "sourceCode": "JICAP",
+        "previewHTML": "<p>Journal of Infant, Child &amp; Adolescent Psychotherapy</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "https://www.google.com"
+      },
+      {
+        "sourceCode": "JOAP",
+        "previewHTML": "<p>Journal of Analytical Psychology</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1468-5922"
+      },
+      {
+        "sourceCode": "JPPF",
+        "previewHTML": "<p>Jahrbuch f\u00fcr psychoanalytische und psychopathologische Forschung</p>",
+        "embargoYears": "5",
+        "fullHTML": "<p></p>",
+        "url": "https://www.google.com"
+      },
+      {
+        "sourceCode": "LU-AM",
+        "previewHTML": "<p>Luzifer-Amor: Zeitschrift zur Geschichte der Psychoanalyse</p>",
+        "embargoYears": "5",
+        "fullHTML": "<p></p>",
+        "url": "www.brandes-apsel.de"
+      },
+      {
+        "sourceCode": "MPSA",
+        "previewHTML": "<p>Modern Psychoanalysis</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "https://www.cmps.edu/Modern-Psychoanalysis-Journal"
+      },
+      {
+        "sourceCode": "NLP",
+        "previewHTML": "<p>New Library of Psychoanalysis</p>",
+        "embargoYears": "0",
+        "fullHTML": "<p></p>",
+        "url": "https://www.google.com"
+      },
+      {
+        "sourceCode": "NP",
+        "previewHTML": "<p>Neuropsychoanalysis</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "https://www.google.com"
+      },
+      {
+        "sourceCode": "OPAS",
+        "previewHTML": "<p>Organizational and Social Dynamics</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "http://www.osd.org.uk/"
+      },
+      {
+        "sourceCode": "PAH",
+        "previewHTML": "<p>Psychoanalysis and History</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "https://www.google.com"
+      },
+      {
+        "sourceCode": "PAQ",
+        "previewHTML": "<p>Psychoanalytic Quarterly</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "https://www.tandfonline.com/toc/rpps20/current"
+      },
+      {
+        "sourceCode": "PB",
+        "previewHTML": "<p>Psychoanalytic Books. A Quarterly Journal of Reviews</p>",
+        "embargoYears": "0",
+        "fullHTML": "<p>Joseph Reppen&rsquo;s journal, Psychoanalytic Books, is a compendium of reviews of the important books of its era, the 1990&rsquo;s, written by many of the best scholars in our field.</p>",
+        "url": "https://www.google.com"
+      },
+      {
+        "sourceCode": "PCS",
+        "previewHTML": "<p>Psychoanalysis and Contemporary Science</p>",
+        "embargoYears": "0",
+        "fullHTML": "<p></p>",
+        "url": "https://www.google.com"
+      },
+      {
+        "sourceCode": "PCT",
+        "previewHTML": "<p>Psychoanalysis and Contemporary Thought</p>",
+        "embargoYears": "0",
+        "fullHTML": "<p></p>",
+        "url": "https://www.google.com"
+      },
+      {
+        "sourceCode": "PD",
+        "previewHTML": "<p>Psychoanalytic Dialogues</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "https://www.tandfonline.com/toc/hpsd20/current"
+      },
+      {
+        "sourceCode": "PDPSY",
+        "previewHTML": "<p>Psychoanalytic Psychology</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "http://guilfordjournals.com/loi/pdps"
+      },
+      {
+        "sourceCode": "PI",
+        "previewHTML": "<p>Psychoanalytic Inquiry</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "https://www.tandfonline.com/toc/uppe20/current"
+      },
+      {
+        "sourceCode": "PPERSP",
+        "previewHTML": "<p>Psychoanalytic Perspectives</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "https://www.tandfonline.com/toc/uppe20/current"
+      },
+      {
+        "sourceCode": "PPSY",
+        "previewHTML": "<p>Psychoanalytic Psychology</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p>Psychoanalytic Psychology serves as a resource for original contributions that reflect and broaden the interaction between psychoanalysis and psychology. Manuscripts that involve issues in psychology raised by psychoanalysis and issues in psychoanalysis raised by psychology are welcome.</p>\n<p>The journal, a quarterly, publishes research papers, clinical papers, literature reviews, clinical notes, brief reports, commentary and book reviews.</p>\n<p>Editor: Elliot L. Jurist<br />Publisher: APA PsycNET</p>",
+        "url": "https://www.apa.org/pubs/journals/pap"
+      },
+      {
+        "sourceCode": "PPTX",
+        "previewHTML": "<p>Psychoanalytic Psychotherapy</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "https://www.tandfonline.com/toc/rpps20/current"
+      },
+      {
+        "sourceCode": "PSABEW",
+        "previewHTML": "<p>Psychoanalytische Bewegung</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "https://www.google.com"
+      },
+      {
+        "sourceCode": "PSAR",
+        "previewHTML": "<p>Psychoanalytic Review</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "https://www.google.com"
+      },
+      {
+        "sourceCode": "PSC",
+        "previewHTML": "<p>Psychoanalytic Study of the Child</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "https://www.tandfonline.com/toc/upsc20/current"
+      },
+      {
+        "sourceCode": "PSP",
+        "previewHTML": "<p>Progress in Self-Psychology</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "https://www.google.com"
+      },
+      {
+        "sourceCode": "PSU",
+        "previewHTML": "<p>Psicoterapia e Scienze Umane</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "https://www.google.com"
+      },
+      {
+        "sourceCode": "PSW",
+        "previewHTML": "<p>Psychoanalytic Social Work</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "https://www.tandfonline.com/toc/rpps20/current"
+      },
+      {
+        "sourceCode": "PSYCHE",
+        "previewHTML": "<p>Psyche - Zeitschrift f\u00fcr Psychoanalyse</p>",
+        "embargoYears": "5",
+        "fullHTML": "<p></p>",
+        "url": "https://www.google.com"
+      },
+      {
+        "sourceCode": "PY",
+        "previewHTML": "<p>Psikanaliz Yaz\u0131lar\u0131 (Psychoanalytic Writings)</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "https://www.google.com"
+      },
+      {
+        "sourceCode": "RBP",
+        "previewHTML": "<p>Revue Belge de Psychanalyse</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "https://www.google.com"
+      },
+      {
+        "sourceCode": "REVAPA",
+        "previewHTML": "<p>Revista de Psicoan\u00e1lisis </p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "https://www.google.com"
+      },
+      {
+        "sourceCode": "RFP",
+        "previewHTML": "<p>Revue fran\u00e7aise de psychanalyse</p>",
+        "embargoYears": "5",
+        "fullHTML": "<p> Revista francesa líder desde 1927 y repositorio de muchos de los artículos más importantes de nuestra disciplina. Consulte los artículos de Freud, Lacan, Green, Chasseguet-Smirgel, McDougall, Viderman y muchos más. Agradecemos a Denys Ribas (ex editor y presidente de SPP), la Sociedad Psicoanalítica de París y su biblioteca y bibliotecarios (SPP), Christine Mique-Bez y Charles Ruelle (Presses Universitaires de France). </p>",
+        "url": "https://www.google.com"
+      },
+      {
+        "sourceCode": "RIP",
+        "previewHTML": "<p>Rivista Italiana di Psicoanalisi</p>",
+        "embargoYears": "0",
+        "fullHTML": "<p></p>",
+        "url": "https://www.google.com"
+      },
+      {
+        "sourceCode": "RPP-CS",
+        "previewHTML": "<p>Revue psychoanalytick\u00e1 psychoterapie</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "https://www.google.com"
+      },
+      {
+        "sourceCode": "RPSA",
+        "previewHTML": "<p>Rivista di Psychoanalisi</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "https://www.google.com"
+      },
+      {
+        "sourceCode": "RRP",
+        "previewHTML": "<p>Revue Roumaine de Psychanalyse</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "https://www.google.com"
+      },
+      {
+        "sourceCode": "SE",
+        "previewHTML": "<p>The Standard Edition of the Complete Psychological Works of Sigmund Freud</p>",
+        "embargoYears": "0",
+        "fullHTML": "<p></p>",
+        "url": "https://www.google.com"
+      },
+      {
+        "sourceCode": "SGS",
+        "previewHTML": "<p>Studies in Gender and Sexuality</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "https://www.google.com"
+      },
+      {
+        "sourceCode": "SPR",
+        "previewHTML": "<p>Scandinavian Psychoanalytic Review</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "https://www.tandfonline.com/toc/rspr20/current"
+      },
+      {
+        "sourceCode": "TVPA",
+        "previewHTML": "<p>Tijdschrift voor psychoanalyse</p>",
+        "embargoYears": "3",
+        "fullHTML": "<p></p>",
+        "url": "https://www.google.com"
+      },
+      {
+        "sourceCode": "ZPSAP",
+        "previewHTML": "<p>Zeitschrift f\u00fcr psychoanalytische P\u00e4dagogik</p>",
+        "embargoYears": "5",
+        "fullHTML": "<p></p>",
+        "url": "https://www.google.com"
+      },
+      {
+        "sourceCode": "ZBPA",
+        "previewHTML": "<p>Zentralblatt f\u00fcr Psychoanalyse</p>",
+        "embargoYears": "5",
+        "fullHTML": "<p></p>",
+        "url": "https://www.google.com"
+      }
+    ],
+    "tour": {
+      "home": {
+        "text": "<p>Este botón le lleva a la página principal (de inicio) de PEP-Web.</p>",
+        "title": "Home"
+      },
+      "toggleLeft": {
+        "text": "<p>Este botón oculta (o muestra) el panel lateral izquierdo, para dejar más espacio para los artículos o para eliminar las distracciones mientras lee. &nbsp; &nbsp; </p>",
+        "title": "Search"
+      },
+      "toggleRight": {
+        "text": "<p>Este botón oculta (o muestra) el panel lateral derecho, para dejar más espacio para los artículos o para eliminar las distracciones mientras lee. &nbsp; &nbsp; </p>",
+        "title": "Widgets"
+      },
+      "mainNavigation": {
+        "text": "<p>These buttons toggle between the available research activities on PEP-Web -- Searching, Reading, and Browsing.&nbsp; And the Home button takes you back to the top level of PEP-Web, where you first arrive.</p>",
+        "title": "Navigation"
+      },
+      "logo": {
+        "text": "<p>Hacer clic en nuestro logotipo es un acceso directo a la página de información y asistencia de PEP-Web. </p>",
+        "title": "Logo"
+      }
+    },
+    "cards": {
+      "videoPreview": {
+        "help": "Vea el último video de nuestro sistema aquí."
+      },
+      "topicalVideoPreview": {
+        "help": "Guarda l'ultimo video di attualit\u00e0 nel nostro sistema qui."
+      },
+      "whatsNew": {
+        "help": "Las últimas incorporaciones a nuestro sistema se pueden ver aquí."
+      },
+      "mostCited": {
+        "help": "Los documentos más citados en todo nuestro sistema se pueden ver aquí."
+      },
+      "mostViewed": {
+        "help": "Los documentos más vistos en todo nuestro sistema se pueden ver aquí."
+      },
+      "relatedDocuments": {
+        "help": "Para los documentos que tienen artículos relacionados, el ícono {faIcon} aparecerá junto a la lista, lo que indica que el artículo es parte de una serie o tiene comentarios de seguimiento en la revista."
+      },
+      "expertPicks": {
+        "help": "Selecciones de expertos ... elegidas por expertos para ti."
+      },
+      "glossaryTerms": {
+        "help": "Al leer un documento, aparecerá aquí una nube de palabras de términos del glosario."
+      },
+      "moreLikeThese": {
+        "help": "Mediante el análisis de texto y la inteligencia artificial (IA), el motor de búsqueda recomienda documentos similares al documento que está leyendo."
+      },
+      "readLater": {
+        "help": "Guarde aquí los elementos que desee leer más tarde. Tenga en cuenta que debe ser un usuario registrado e iniciado sesión en el sistema para utilizar esta función."
+      },
+      "favorites": {
+        "help": "Puede guardar sus documentos favoritos para acceder fácilmente aquí. Tenga en cuenta que debe ser un usuario registrado e iniciado sesión en el sistema para utilizar esta función."
+      },
+      "publisherInfo": {
+        "help": "La información del editor del documento actual que está viendo aparecerá aquí. Estos datos se finalizarán en la versión de producción."
+      }
+    },
+    "signInCard": {
+      "body": "<p>The <em>PEP-Web Psychoanalytic Library</em> is free to search and read abstracts, but <em><strong>you need to <a href=\"https://stage-pads.pep-web.rocks/Pages/pg117AddNewSubscriber.aspx?PageMode=BasicDetails&amp;UserSessionId=a72f58e7-3f6d-45cb-a0b9-308f6d006640\">register</a> to use most of the free features</strong></em>. <strong>To get started:</strong></p>\n<ol>\n<li><strong>If you already have a username and password, </strong>enter them below.&nbsp; Or click here for <a href=\"https://stage-pads.pep-web.rocks/Pages/pg117AddNewSubscriber.aspx?PageMode=BasicDetails&amp;UserSessionId=a72f58e7-3f6d-45cb-a0b9-308f6d006640\">free registration</a></li>\n<li><strong>Institutional/library access - </strong>On your first visit, <a href=\"https://stage-pads.pep-web.rocks/Pages/pg117AddNewSubscriber.aspx?PageMode=BasicDetails&amp;UserSessionId=a72f58e7-3f6d-45cb-a0b9-308f6d006640\">register here</a> for a free password.&nbsp;&nbsp;</li>\n<li><strong>Federated access</strong> (Athens, Shibboleth, etc.) click Federated Login below for instructions.&nbsp; Then on your first visit, <a href=\"https://stage-pads.pep-web.rocks/Pages/pg117AddNewSubscriber.aspx?PageMode=BasicDetails&amp;UserSessionId=a72f58e7-3f6d-45cb-a0b9-308f6d006640\">register here</a> to get your free password.</li>\n</ol>\n<p>Note: To read the complete text of articles, you need a paid subscription.&nbsp; If you or your institution do not subscribe to PEP-Web, click here for information on subscribing.&nbsp;</p>",
+      "help": "Sign in help",
+      "collapsible": false,
+      "side": "right"
+    },
+    "adminSpecifiedInformationItems": [
+      {
+        "id": "login",
+        "value": "<p>test</p>"
+    }
+    ]
+  },
+  "home": {
+    "intro": {
+      "left": "<p><span style=\"font-size: 14pt;\">\u25c0\ufe0f</span><strong> Your Search Begins Here!&nbsp; </strong>PEPWEB contains more than 136,000 articles covering over a million pages.&nbsp; To use it to your advantage, SEARCH!</p>\n<ul>\n<li>\"What are you looking for?\" The top box to the left takes all kinds of search inputs.\n<ul>\n<li>Type in some psychoanalytic terms - <strong>to get useful results and to avoid a deluge, enter two or three at a time.</strong>&nbsp;&nbsp;<br />&nbsp; &nbsp;Doing that will make the search more precise, returning only the most relevant results.</li>\n<li>Or paste a reference from an article into the field</li>\n<li>Or type a Journal name or part of a journal name</li>\n<li>Or type an Author name</li>\n</ul>\n</li>\n<li>For tips and more information about other ways to search, see our <a title=\"Search Help\" href=\"https://fb.watch/4634xBWSZF/\" target=\"_blank\" rel=\"noopener\">Search Help video</a></li>\n</ul>",
+      "right": "<p><strong>Some Special Features</strong></p>\n<ul>\n<li><a href=\"../../browse/document/PEPTOPAUTHVS.001.0021A\">Fully Text Searchable Videos from leading psychoanalysts</a>&nbsp;<br /><a href=\"../../browse/document/PEPTOPAUTHVS.001.0021A\"><img src=\"https://pep-web-video-previews.s3.amazonaws.com/pepvideomatrix.jpg\" alt=\"\" width=\"386\" height=\"197\" /></a></li>\n</ul>\n<ul>\n<li>Translate texts into your language (on Google Chrome)</li>\n<li><a href=\"../../browse/book/gw\">Freud in his original German</a> (paragraph linked to the Standard Edition)</li>\n<li><a href=\"../../browse/book/se\">Freud in the Standard Edition</a> English translation (paragraph linked to original German)</li>\n<li>Personalised suggestions and saved articles.</li>\n</ul>"
+    },
+    "newsAndInfo": {
+      "boxOne": {
+        "heading": "79 revistas psicoanalíticas de primer nivel",
+        "body": "<div style=\"background-image: url('https://pep-web-gui.s3.amazonaws.com/journal_composite.jpg');\">\n<p>PEP-Web is the quintessential archive of psychoanalytic scholarship,</p>\n<p>with the full text of 79 premier journals dating back to 1911,</p>\n<p>cross-linked to each other, and where a multi-source psychoanalytic glossary</p>\n<p>is a click away for any psychoanalytic term. There are over 136 thousand articles</p>\n<p>totaling over 1.2 million printed pages</p>\n</div>"
+      },
+      "boxTwo": {
+        "heading": "100 libros psicoanalíticos clásicos",
+        "body": "<p>The PEP-Web Archive has the complete content of the Standard Edition of the Complete Psychological Works of Sigmund Freud and the 19 volume German Freud Standard Edition Gesammelte Werke, and includes a concordance between editions where corresponding paragraphs are cross-linked. The Archive also contains 100 classic psychoanalytic books, including classic authors such as Bion, Bowlby, Klein, Meltzer, Winnicott, and many more.</p>"
+      }
+    },
+    "expertPickOfTheDay": {
+      "help": "Todos los días sugeriremos un artículo de referencia en Psicoanálisis, y otros artículos que creemos que deberían ser de interés para los suscriptores. "
+    }
+  },
+  "search": {
+    "tooManyResults": {
+      "instructions": "Ingrese al menos dos términos, criterios adicionales y /o use el formulario 'Refinar' a continuación para aumentar la precisión de la búsqueda."
+    },
+    "smartSearch": {
+      "help": "SmartSearch, basado en la semántica de lo que ingresa. Puede reconocer una cita (autor y año) o referencia en formato APA, un DOI, una ID de artículo PEP (por ejemplo, PAQ.073.0005A), un nombre de autor o varios (con el caso apropiado). Ingrese palabras o frases y las buscará en cualquier parte del documento. "
+    },
+    "matchSynonyms": {
+      "help": "Devolver resultados que también coincidan con sinónimos con los términos de búsqueda ingresados, utilizando los glosarios psicoanalíticos como base"
+    },
+    "limitTo": {
+      "help": "Al hacer clic en esto, se agregan nuevos controles de búsqueda para restringir los resultados de la búsqueda a documentos con un número específico de citas o vistas."
+    },
+    "hitsInContext": {
+      "help": "Muestra un resumen de los resultados con algún contexto de documento."
+    },
+    "terms": {
+      "types": {
+        "everywhere": {
+          "prompt": "Términos o frase",
+          "help": "Busque palabras en el mismo párrafo o frases de cualquier parte del documento, incluidos resúmenes y referencias. Rodee las frases con comillas."
+        },
+        "author": {
+          "prompt": "Nombre del autor",
+          "help": "Busque los nombres de los autores (por ejemplo, Apellido o Apellido, Nombre). Utilice * para buscar nombres parciales.",
+          "wordWheelSearchType": "text"
+        },
+        "title": {
+          "prompt": "Titulo del documento",
+          "help": "Busque palabras o frases dentro de los títulos de los documentos. Rodee las frases con comillas."
+        },
+        "dream": {
+          "prompt": "Términos o frase",
+          "help": "Busque palabras en el mismo párrafo o frases en áreas de documentos que sean oníricas. Rodee las frases con comillas."
+        },
+        "quote": {
+          "prompt": "Términos o frase",
+          "help": "Busque palabras en el mismo párrafo o frases en áreas de documentos que son pasajes citados. Rodee las frases con comillas."
+        },
+        "reference": {
+          "prompt": "Términos o frase",
+          "help": "Busque palabras en la misma referencia, o frases, en la sección de referencias (bibliografías) de los documentos. Rodee las frases con comillas."
+        },
+        "dialog": {
+          "prompt": "Términos o frase",
+          "help": "Busque palabras en el mismo párrafo o frases en áreas de documentos que son diálogos entre personas. Rodee las frases con comillas."
+        },
+        "article": {
+          "prompt": "Términos o frase",
+          "help": "Busque palabras en el mismo párrafo o frases en cualquier parte del documento EXCEPTO en resúmenes, resúmenes y referencias. Rodee las frases con comillas."
+        },
+        "startYear": {
+          "prompt": "Año de publicación",
+          "help": "Buscar documentos publicados en o antes o después de un año, o dentro de un rango de años (p. Ej.,\"1999\",\"<1999\",\">1999\",\"1999-2010\")"
+        },
+        "endYear": {
+          "prompt": "Año de publicación",
+          "help": "Buscar documentos publicados en o antes o después de un año, o dentro de un rango de años (p. Ej.,\"1999\",\"<1999\",\">1999\",\"1999-2010\")"
+        }
+      }
+    }
+  }
+}
