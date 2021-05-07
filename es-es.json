@@ -158,7 +158,10 @@
         },
         "form": {
             "heading": "Buscar documentos",
-            "smartSearch": "Que está buscando?",
+            "smartSearch": {
+                "heading": "Smart Search",
+                "label": "Que está buscando?"
+            },
             "savedSearch": {
                 "label": "Guardar busqueda",
                 "mine": "Mis busquedas guardadas",
@@ -541,12 +544,13 @@
         "success": "You are now logged in.",
         "forgotPassword": "Forgot Password?",
         "genericError": "Unable to login. There is a problem behind the scenes, and we are looking into it. Please try again later.",
-        "federatedLogin": "Federated Login",
+        "federatedLogin": "Federated/OpenAthens Login",
         "notARegisteredUser": "Not a registered user?",
-        "clickToRegister": "Click here to register"
+        "clickToRegister": "Click here to register",
+        "groupInformation": "You have been granted partial access to PEP via {org} based on {method}. To have full access please login or create an account."
     },
     "federatedLogin": {
-        "title": "Federated Login",
+        "title": "Federated/OpenAthens Login",
         "info": "Psychoanalytic Electronic Publishing supports logins from the following federations and institutions. If you have a login through one of these services, please click on the link to gain access to your subscription",
         "forgotPassword": "Forgot Password?",
         "genericError": "Unable to login. There is a problem behind the scenes, and we are looking into it. Please try again later.",
@@ -625,6 +629,9 @@
                 "enabled": "Display a preview pane",
                 "disabled": "Open the full document",
                 "labelName": "on-search-result-selection"
+            },
+            "userSearchFormSticky": {
+                "label": "Sticky search form"
             }
         },
         "sidebar": {
@@ -777,6 +784,11 @@
     },
     "document": {
         "text": {
+            "help": {
+                "title": "Click on the title to view the article in the source Table of Contents.",
+                "author": "Click on the author name to view other articles by this author",
+                "journalBanner": "Click on the journal banner to see other volumes for this source"
+            },
             "relatedBibliography": "This specific reference was not found to match any articles on PEP. However, using artificial intelligence, our software has found a reference which appears related, or may in some cases be a republication of the same article. '<div class=\"text-muted small mt-2\">'Disclaimer: This link is provided with the intent of possibly providing a relevant match where none would otherwise be provided. As it is by nature imprecise, and we are still refining the matching methods, not all references may actually be a close enough match to meet your needs'</div>'",
             "error": "Failed to load the document. Please contact a PEP administrator for assistance."
         }
@@ -801,6 +813,12 @@
     "informationBars": {
         "settingsAuth": {
             "title": "Sign in is required in order to change settings",
+            "buttons": {
+                "signIn": "Sign in"
+            }
+        },
+        "relogin": {
+            "title": "You have been logged out. To continue your session, please sign in.",
             "buttons": {
                 "signIn": "Sign in"
             }
@@ -859,6 +877,10 @@
                     },
                     "mostViewed": {
                         "limit": "Most viewed result limit"
+                    },
+                    "glossary": {
+                        "searchLimit": "Glossary limit when searching",
+                        "readLimit": "Glossary limit when reading"
                     }
                 }
             },
