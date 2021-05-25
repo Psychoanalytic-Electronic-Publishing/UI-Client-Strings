@@ -648,11 +648,11 @@
     "newsAndInfo": {
       "boxOne": {
         "heading": "79 revistas psicoanal\u00edticas de primer nivel",
-        "body": "<div style=\"background-image: url('https://pep-web-gui.s3.amazonaws.com/journal_composite.jpg');\">\n<p>PEP-Web is the quintessential archive of psychoanalytic scholarship,</p>\n<p>with the full text of 79 premier journals dating back to 1911,</p>\n<p>cross-linked to each other, and where a multi-source psychoanalytic glossary</p>\n<p>is a click away for any psychoanalytic term. There are over 136 thousand articles</p>\n<p>totaling over 1.2 million printed pages</p>\n</div>"
+        "body": "<p>... m&aacute;s de 136.000 art&iacute;culos y 1,2 millones de p&aacute;ginas impresas. Texto de 79 revistas de primer nivel que datan de 1911, enlazadas, con un glosario psicoanal&iacute;tico de m&uacute;ltiples fuentes para t&eacute;rminos psicoanal&iacute;ticos.</p>\n<p align=\"center\"><a href=\"../../browse\"><img src=\"https://pep-web-gui.s3.amazonaws.com/journal_composite.jpg\" alt=\"\" width=\"200\" height=\"208\" /></a></p>"
       },
       "boxTwo": {
         "heading": "100 libros psicoanal\u00edticos cl\u00e1sicos",
-        "body": "<p>The PEP-Web Archive has the complete content of the Standard Edition of the Complete Psychological Works of Sigmund Freud and the 19 volume German Freud Standard Edition Gesammelte Werke, and includes a concordance between editions where corresponding paragraphs are cross-linked. The Archive also contains 100 classic psychoanalytic books, including classic authors such as Bion, Bowlby, Klein, Meltzer, Winnicott, and many more.</p>"
+        "body": "<p>... incluidos autores cl&aacute;sicos como Bion, Bowlby, Klein, Meltzer, Winnicott y muchos m&aacute;s, as&iacute; como la edici&oacute;n est&aacute;ndar completa de Freud y Gesammelte Werke, y una concordancia de p&aacute;rrafos entre ellos. &amp; nbsp;</p>\n<p align=\"center\"><a href=\"../../browse/book/gw\"><img src=\"https://pep-web-gui.s3.amazonaws.com/book composite.jpg\" alt=\"\" width=\"204\" height=\"212\" /></a></p>"
       }
     },
     "expertPickOfTheDay": {

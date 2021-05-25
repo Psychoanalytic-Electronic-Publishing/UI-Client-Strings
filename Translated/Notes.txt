@@ -1,0 +1,12 @@
+2020-05-24 
+  These came back from them as:
+	APP.en-us.json
+	ADMIN.nopublishers.en-us.json
+	
+  They should have been:
+	APP.fr-fr.json
+	ADMIN.nopublishers.fr-fr.json
+	
+	or similar, correct language labeling.
+
+  Sent them a note about it and they said they would do that in the future.

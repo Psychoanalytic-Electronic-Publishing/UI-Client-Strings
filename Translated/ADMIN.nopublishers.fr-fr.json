@@ -1,0 +1,162 @@
+{
+  "global": {
+    "tips": {
+      "isEnabled": true,
+      "list": []
+    },
+      
+    "tour": {
+      "home": {
+        "text": "<p>Ce bouton vous amène à la « une » (page d'accueil) de PEP-Web.</p>",
+        "title": "Accueil"
+      },
+      "toggleLeft": {
+        "text": "<p>Ce bouton masque (ou affiche) le panneau latéral gauche, pour laisser plus de place aux articles ou pour éviter les distractions lors de la lecture. </p>",
+        "title": "Rechercher"
+      },
+      "toggleRight": {
+        "text": "<p>Ce bouton masque (ou affiche) le panneau latéral droit, pour laisser plus de place aux articles ou pour éviter les distractions lors de la lecture. </p>",
+        "title": "Widgets"
+      },
+      "mainNavigation": {
+        "text": "<p>Ces boutons permettent de basculer entre les activités de recherche disponibles sur PEP-Web - recherche, lecture et navigation. Et le bouton Accueil vous ramène au niveau supérieur de PEP-Web, là où vous êtes entré.</p>",
+        "title": "Navigation"
+      },
+      "logo": {
+        "text": "<p>Un click sur notre logo vous amène à la page d'information et d'assistance PEP-Web.</p>",
+        "title": "Logo"
+      }
+    },
+    "cards": {
+      "videoPreview": {
+        "help": "Découvrez ici la dernière vidéo de notre système."
+      },
+      "topicalVideoPreview": {
+        "help": "Découvrez ici la dernière vidéo thématique de notre système."
+      },
+      "whatsNew": {
+        "help": "Les derniers numéros de revues ajoutés à notre système sont listés ici."
+      },
+      "mostCited": {
+        "help": "Les documents les plus cités dans notre système sont listés ici."
+      },
+      "mostViewed": {
+        "help": "Les documents les plus consultés dans notre système sont listés ici."
+      },
+      "relatedDocuments": {
+        "help": "Pour les documents qui ont des articles connexes, l'icône {faIcon} apparaîtra à côté de la liste, indiquant que l'article fait partie d'une série ou a été commenté dans la revue.  "
+      },
+      "expertPicks": {
+        "help": "Sélection des experts... articles classiques."
+      },
+      "glossaryTerms": {
+        "help": "Lors de la lecture d'un document, un nuage de mots des termes du glossaire apparaît ici.  Un nuage de mots est un groupe de mots dont la taille et l'épaisseur varient en proportion de leur fréquence d'apparition dans le texte."
+      },
+      "moreLikeThese": {
+        "help": "Le moteur de recherche utilise l'analyse de texte et l'intelligence artificielle (IA) pour vous recommander des documents similaires à celui que vous lisez."
+      },
+      "readLater": {
+        "help": "Enregistrez ici les éléments que vous souhaitez lire plus tard.  Attention : vous devez être un utilisateur inscrit et connecté au système pour utiliser cette fonction."
+      },
+      "favorites": {
+        "help": "Vous pouvez enregistrer ici vos documents favoris pour pouvoir les retrouver facilement.  Attention : vous devez être un utilisateur inscrit et connecté au système pour utiliser cette fonction."
+      },
+      "publisherInfo": {
+        "help": "Selon leur disponibilité, les informations sur l'éditeur concernant le document que vous consultez actuellement apparaîtront ici."
+      }
+    },
+    "signInCard": {
+      "body": "<ul>\n<li>Si vous-mêmes, votre université ou votre groupe êtes abonnés à la <em>bibliothèque psychanalytique PEP-Web, </em>pensez à <strong>vous connecter à chaque fois que vous la consultez</strong> ; vous pourrez ainsi utiliser les fonctionnalités avancées de personnalisation. <strong>Si vous avez déjà un nom d’utilisateur et un mot de passe</strong>, saisissez-les ci-dessus.</li>\n<li><strong>Si vous accédez via le site Web d'un groupe ou de la bibliothèque d'une institution -  </strong>Lors de votre première visite, utilisez le lien d’inscription ci-dessus pour obtenir un nom d’utilisateur et un mot de passe gratuits. Vous pourrez alors utiliser ce compte en accédant directement à ce site, mais il vous faudra le revalider tous les 90 jours en y accédant depuis le site Web de votre groupe ou de la bibliothèque de votre institution. </li>\n<li><strong>Si vous disposez d'un accès fédéré hors campus</strong> et que votre compte n'a pas encore été validé, cliquez sur Connexion Fédérée/OpenAthens ci-dessus. Si c'est votre première visite alors une fois que serez revenu ici, utilisez le lien d'inscription ci-dessus pour obtenir votre nom d'utilisateur et votre mot de passe gratuits.</li>\n</ul>\n<p>Remarque : vous avez besoin d’un abonnement valide pour lire le texte complet des articles. Si vous ou votre institution n'êtes pas abonnés à PEP-Web, <a href=\"http://support.pep-web.org/subscribe/\">cliquez ici</a> pour obtenir des informations sur l’inscription. </p>\n<p>Remarque : les abonnements vous donnent accès aux archive PEP. Les articles de revues publiés au cours des 3 (parfois 5) dernières années ne sont disponibles que sous forme de sommaires (abstracts). Pour plus d’informations, cliquez <a href=\"http://support.pep-web.org/subscribe/\">ici</a></p>",
+      "help": "Aide à la connexion",
+      "collapsible": false,
+      "side": "droit"
+    },
+    "adminSpecifiedInformationItems": [
+      {
+        "id": "connexion",
+        "value": "<p>test</p>"
+      }
+    ]
+  },
+  "home": {
+    "intro": {
+      "left": "<p>PEP-Web contient plus de 136 000 articles qui totalisent plus d’un million de pages. Utilisez-le :</p>\n<ul>\n<li>Pour approfondir vos connaissances en trouvant quelque chose de nouveau ! <strong>C'est sa valeur première</strong>.</li>\n<li>Pour trouver quelque chose dont vous pensez déjà que cela se trouve ici.</li>\n<li>Pour vous y déplacer comme dans une bibliothèque physique.</li>\n</ul>\n<p>◀️<strong>   Élargissez vos connaissances</strong> La case en haut à gauche s'appelle <strong><em>SmartSearch (Recherche intelligente)</em></strong>. Elle accepte toutes sortes d'entrées de recherche.</p>\n<ul>\n<li>Essayez-la : saisissez-y des termes psychanalytiques - afin d'obtenir des résultats utiles et de ne pas être submergé<strong>, saisissez-en deux ou trois à la fois.</strong> Cela permettra de préciser la recherche et de n'obtenir que les résultats les plus pertinents.</li>\n<li>Vous pouvez également coller dans le champ la référence d'un article, y saisir un nom de revue ou une partie d'un nom de revue, ou y saisir un nom d’auteur ou encore bien d'autres choses.</li>\n</ul>\n<h5><strong>✅ <span style=\"font-size: 12pt;\">Sélectionnez une </span></strong><span style=\"font-size: 12pt;\">vidéo ci-dessous ou visitez le <a href=\"http://support.pep-web.org/the-new-pep-web/\" target=\"_blank\" rel=\"noopener\">site d'assistance PEP</a></span></h5>\n<table style=\"border-collapse: collapse; width: 91.373%; border-style: hidden;\" border=\"1\">\n<tbody>\n<tr style=\"text-align: center;\">\n<td style=\"width: 20.6591%;\"><a href=\"http://support.pep-web.org/the-new-pep-web-for-fall-of-2021-in-progress/pep-web-2021-video-tutorials/pep-web-2021-video-tutorial-more/\" target=\"_blank\" rel=\"noopener\"><span style=\"background-color: #c2e0f4;\"><strong>Introduction rapide</strong></span></a> </td>\n<td style=\"width: 34.4264%;\"><a href=\"http://support.pep-web.org/the-new-pep-web-for-fall-of-2021-in-progress/pep-web-2021-video-tutorials/pep-web-2021-video-tutorial-search/\" target=\"_blank\" rel=\"noopener\"><span style=\"background-color: #bfedd2;\"><strong>Recherche et navigation</strong></span></a></td>\n<td style=\"width: 27.1067%;\"><a href=\"http://support.pep-web.org/the-new-pep-web-for-fall-of-2021-in-progress/pep-web-2021-video-tutorials/pep-web-2021-video-tutorial-refine/\" target=\"_blank\" rel=\"noopener\"><strong><span style=\"background-color: #fbeeb8;\">Affiner vos résultats</span></strong></a></td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>",
+      "right": "<h4><strong>Quelques fonctionnalités spéciales</strong></h4>\n<p><a href=\"../../browse/document/PEPTOPAUTHVS.001.0021A\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://pep-web-video-previews.s3.amazonaws.com/pepvideomatrix.jpg\" alt=\"\" width=\"386\" height=\"197\" /></a></p>\n<ul>\n<li><a href=\"../../browse/document/PEPTOPAUTHVS.001.0021A\"> Vidéos des principaux psychanalystes avec recherche plein texte</a> </li>\n<li>Traduire des textes dans votre langue (sur Google Chrome)</li>\n<li><a href=\"../../browse/book/gw\">Freud dans l'original allemand</a> (paragraphe lié à la Standard Edition)</li>\n<li><a href=\"../../browse/book/se\">Freud dans la traduction anglaise de la Standard Edition</a> (paragraphe lié à l'original allemand)</li>\n<li>Suggestions personnalisées et articles enregistrés</li>\n</ul>"
+    },
+    "newsAndInfo": {
+      "boxOne": {
+        "heading": "79 revues réputées",
+        "body": "<p align=\"center\"><a href=\"../../browse\"><img src=\"https://pep-web-gui.s3.amazonaws.com/journal_composite.jpg\" alt=\"\" width=\"197\" height=\"205\" /></a></p>"
+      },
+      "boxTwo": {
+        "heading": "100 livres classiques",
+        "body": "<p align=\"center\"><a href=\"../../browse/book/gw\"><img src=\"https://pep-web-gui.s3.amazonaws.com/book composite.jpg\" alt=\"\" width=\"189\" height=\"197\" /></a></p>"
+      }
+    },
+    "expertPickOfTheDay": {
+      "help": "Nous proposons chaque jour un article de référence en psychanalyse et d'autres articles qui, selon nous, devraient intéresser les abonnés. "
+    }
+  },
+  "search": {
+    "tooManyResults": {
+      "instructions": "Pour améliorer la précision de la recherche saisissez au moins deux termes, des critères supplémentaires ou utilisez le formulaire « Affiner » ci-dessous."
+    },
+    "smartSearch": {
+      "help": "SmartSearch utilise la sémantique de votre entrée de recherche pour trouver des documents. Il sait identifier les éléments fondamentaux du document, par exemple les titres et les noms d'auteurs, ainsi que\n<small>\n<ul>\n<li>les opérateurs booléens (<a href=\"https://pep-web.rocks/search?q=boy OR girl\">chien AND (garçon OR fille)</a>)</li>   \n<li>les citations (<a href=\"https://pep-web.rocks/search?q=Bowlby 1940\">Bowlby 1940</a>)</li>   \n<li>les références au format APA</li>    \n<li>Les DOI (<a href='https://pep-web.rocks/search?q=10.1080%2F00107530.2014.868299'>10.1080%2F00107530.2014.868299</a>)</li>   \n<li>Les ID d'articles PEP (<a href=\"https://pep-web.rocks/search?q=PAQ.073.0005A\">PAQ.073.0005A</a>)</li>   \n<li>volume:page (<a href=\"https://pep-web.rocks/search?q=97: 239\">97: 239</a>)</li></ul>\n</small>Nous nous efforçons de le rendre toujours plus intelligent, mais s'il ne reconnaît pas ce que vous saisissez, il trouvera les mots ou les expressions dans un paragraphe du document.  Vous pouvez également utiliser la recherche <a href=\"http://support.pep-web.org/the-new-pep-web/pep-web-2021-help-topics/advanced-search/\" target=\"_blank\">avancée</a> et <a href=\"http://support.pep-web.org/the-new-pep-web/pep-web-2021-help-topics/pep-web-2021-fielded-search/\" target=\"_blank\">avancée avec champs</a> (art_reference_count: [50 TO *]).\n\n\n"
+    },
+    "matchSynonyms": {
+      "help": "Renvoie des résultats qui correspondent aussi aux synonymes des termes de recherche saisis, en utilisant <a href=\"https://pep-web.rocks/search?q=APA.024.0409A\">Klumpner's Toward a Conceptual Index of Psychoanalytic Terms: A Method to Develop a Psychoanalytic Thesaurus</a>."
+    },
+    "limitTo": {
+      "help": "Cliquer ici pour ajouter de nouveaux contrôles de recherche au formulaire qui vous permettent de limiter les résultats de la recherche aux documents cités ou vus un nombre donné de fois."
+    },
+    "hitsInContext": {
+      "help": "Lister pour chaque document quelques correspondances dans le contexte du document.  Vous pouvez modifier le nombre d'extraits à afficher dans vos préférences."
+    },
+    "terms": {
+      "types": {
+        "everywhere": {
+          "prompt": "Termes ou expression",
+          "help": "Recherchez des documents contenant ces mots ou expressions dans un paragraphe.  Recherchez n'importe où dans le document, y compris dans les sommaires et dans les références. Mettez les expressions \"entre guillemets anglais\".  Jokers * (plusieurs caractères) et ? (caractère unique) peuvent être utilisés.  <a href=\"http://support.pep-web.org/the-new-pep-web/pep-web-2021-help-topics\" target=\"_blank\">Plus d'information...</a> \n<small>\n<br>Exemples :\n<ul><li>Recherche de mots : covid peur</li>\n<li>Recherche d'expression : \"covid peur\"</li>\n<li>Jokers : c?vid peur*</li>\n<li>Proximité : \"covid peur\"~10</li>\n</ul> </small>"
+        },
+        "author": {
+          "prompt": "Nom de l'auteur",
+          "help": "Recherchez des documents par auteur.  Entrez un ou plusieurs noms d'auteurs (fonctionne mieux avec uniquement les noms de famille). Utilisez des jokers tels que * pour remplacer plusieurs caractères ou ? pour remplacer un seul caractère. <a href=\"http://support.pep-web.org/the-new-pep-web/pep-web-2021-help-topics\" target=\"_blank\">Plus d'information...</a> \n<small>\n<br>Exemples :\n<ul><li>Recherche d'auteur : Ammaniti</li>\n<li>Recherche par nom complet : \"Ammaniti, M.\"</li>\n<li>Jokers : Amm?n*</li>\n<li>Multiple : Ammaniti & Ginzb*</li>\n</ul> \n</small>\n",
+          "wordWheelSearchType": "texte"
+        },
+        "title": {
+          "prompt": "Titre du document",
+          "help": "Recherchez des documents contenant des mots ou des expressions dans le titre. Mettez les expressions \"entre guillemets anglais\". Utilisez des jokers tels que * pour remplacer plusieurs caractères ou ? pour remplacer un seul caractère.\n  <a href=\"http://support.pep-web.org/the-new-pep-web/pep-web-2021-help-topics\" target=\"_blank\">Plus d'information...</a> \n<small>\n<br>Exemples :  \n<ul>\n<li>Recherche de mots : fantasmes inconscients</li>\n<li>Recherche d'expression : \"fantasmes inconscients\"</li>\n<li>Jokers : fantas* inconscients</li>\n<li>Proximité : \"fantas* inconscients\"~10</li>\n</ul> \n</small>"
+        },
+        "dream": {
+          "prompt": "Termes ou expression",
+          "help": "Recherchez des documents contenant certains mots ou expressions à l'intérieur d'un paragraphe dans des passages décrivant des rêves. Mettez les expressions \"entre guillemets anglais\".\nUtilisez des jokers tels que * pour remplacer plusieurs caractères ou ? pour remplacer un seul caractère. <a href=\"http://support.pep-web.org/the-new-pep-web/pep-web-2021-help-topics\" target=\"_blank\">Plus d'information...</a> \n<small>\n<br>Exemples :  \n<ul>\n<li>Recherche de mots : pipi lit</li>\n<li>Recherche par expression : \"pipi au lit\"</li>\n<li>Jokers : pip* lit</li>\n<li>Proximité : \"pip* lit\"~10</li>\n</ul> </small>"
+        },
+        "quote": {
+          "prompt": "Termes ou expression",
+          "help": "Recherchez des documents contenant certains mots ou expressions à l'intérieur d'un paragraphe des passages cités. Mettez des expressions \"entre guillemets anglais\". <a href=\"http://support.pep-web.org/the-new-pep-web/pep-web-2021-help-topics\" target=\"_blank\">Plus d'information...</a> \n<small>\n<br>Exemples :  \n<ul>\n<li>Recherche de mots : travail et jeu</li>\n<li>Recherche de phrases : \"travail et jeu\"</li>\n<li>Jokers : \"travail et jeu*\"</li>\n<li>Proximité : \"travail et jeu\"~9</li>\n</ul> </small>"
+        },
+        "reference": {
+          "prompt": "Termes ou expression",
+          "help": "Recherchez des documents contenant certains mots ou expressions dans la même référence de la bibliographie. Mettez les expressions \"entre guillemets anglais\".  <a href=\"http://support.pep-web.org/the-new-pep-web/pep-web-2021-help-topics\" target=\"_blank\">Plus d'information...</a> \n<small>\n<br>Exemples :  \n<ul>\n<li>Recherche de mots : Geste spontané</li>\n<li>Recherche d'expression : \"Geste spontané\"</li>\n<li>Jokers : \"Gest* spontan*\"</li>\n<li>Proximité : \"Geste spontané\"~9</li>\n</ul> </small>"
+        },
+        "dialog": {
+          "prompt": "Termes ou expression",
+          "help": "Recherchez des documents contenant certains mots ou expressions à l'intérieur d'un paragraphe dans les dialogues entre personnes. Mettez les expressions \"entre guillemets anglais\".  <a href=\"http://support.pep-web.org/the-new-pep-web/pep-web-2021-help-topics\" target=\"_blank\">Plus d'information...</a> \n<small>\n<br>Exemples :  \n<ul>\n<li>Recherche de mots : anxiété objective</li>\n<li>Recherche d'expression : \"anxiété objective\"</li>\n<li>Jokers : \"anx* objec*\"</li>\n<li>Proximité : <a href='https://stage.pep-web.rocks/search?searchTerms=%5B%7B%22type%22%3A%22dialog%22%2C%22term%22%3A%22%5C%22objective%20anxiety%5C%22~4%22%7D%5D'>\"anxiété objective\"~3</a></li>\n</ul> </small>"
+        },
+        "article": {
+          "prompt": "Termes ou expression",
+          "help": "Recherchez des documents contenant des mots ou des phrases dans un paragraphe n'importe où dans le document, SAUF dans les sommaires, les résumés et les références. Mettez les expressions \"entre guillemets anglais\". <a href=\"http://support.pep-web.org/the-new-pep-web/pep-web-2021-help-topics\" target=\"_blank\">Plus d'information</a> \n<small>\n<br>Exemples :  \n<ul>\n<li>Recherche de mots : modèles contemporains de psychanalyse</li>\n<li>Recherche d'expression : \"modèles contemporains de psychanalyse\"</li>\n<li>Jokers : \"modèles contemporains de psych*\"</li>\n<li>Proximité : \"modèles contemporains de psychanalyse\"~5</li>\n</ul> </small>"
+        },
+        "startYear": {
+          "prompt": "Année de parution",
+          "help": "Recherchez des documents publiés au cours ou avant ou après une année donnée, ou dans un intervalle d'années. <a href=\"http://support.pep-web.org/the-new-pep-web/pep-web-2021-help-topics\" target=\"_blank\">Plus d'informations...</a> \n<small>\n<br>Exemples :  \n<ul>\n<li>Une année précise : 1999</li>\n<li>Avant : <1999/li\n<li>Après : >1999</li>\n<li>Intervalle : 1999-2010</li>\n</ul> \n</small>\n"
+        },
+        "endYear": {
+          "prompt": "Année de parution",
+          "help": "Recherchez des documents publiés au cours ou avant ou après une année donnée, ou dans un intervalle d'années (par exemple, \"1999\", \"<1999\", \"> 1999\", \"1999-2010\")"
+        }
+      }
+    }
+  }
+}

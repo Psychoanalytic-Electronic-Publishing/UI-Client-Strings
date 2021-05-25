@@ -7,7 +7,7 @@
     "publishers": [
       {
         "sourceCode": "ADATERECORD",
-        "previewHTML": "<p>Preload Version 2021-03-17.1</p>",
+        "previewHTML": "<p>Preload Version 2021-05-15.1</p>",
         "fullHTML": "<p>Just to record file date</p>",
         "embargoYears": "0",
         "url": "http://www.google.com"
@@ -211,8 +211,8 @@
       },
       {
         "sourceCode": "IJP",
-        "previewHTML": "<p>International Journal of Psycho-Analysis</p><p>Journal information</p><p>Print ISSN: 0020-7578 Online ISSN: 1745-8315</p><p>6 issues per year</p>",
-        "fullHTML": "<p>Journal information<cr/><cr/>Print ISSN: 0020-7578 Online ISSN: 1745-8315<cr/>6 issues per year</p><p>The International Journal of Psychoanalysis  is a fully peer reviewed journal published six times a year (February, April, June, August, October and December) since its merger with  The International Review of Psycho-Analysis in 1994. It publishes extensive contributions by authors throughout the world - facilitated by a system of international editorial boards and the policy of allowing submission and review in six languages, followed by translation of accepted papers at the Journal's expense.</p><p>Originally founded by Ernest Jones in collaboration with Sigmund Freud in 1920, the Journal publishes contributions on Psychoanalytic Theory & Technique, The History of Psychoanalysis, Clinical Contributions, Education & Professional Issues, Psychoanalytic Psychotherapy, Interdisciplinary Studies, and Film Essays. The Journal also publishes the main papers and panel reports from the International Psychoanalytical Association's Congresses, book reviews, obituaries, and correspondence.</p><p>The Journal also publishes selected papers in the IJP Annuals currently offered in eight different languages.</p>",
+        "previewHTML": "<p>International Journal of Psycho-Analysis</p>\n<p>Journal information</p>\n<p>Print ISSN: 0020-7578 Online ISSN: 1745-8315</p>\n<p>6 issues per year</p>",
+        "fullHTML": "<p>Journal informationPrint ISSN: 0020-7578 Online ISSN: 1745-83156 issues per year</p>\n<p>The International Journal of Psychoanalysis is a fully peer reviewed journal published six times a year (February, April, June, August, October and December) since its merger with The International Review of Psycho-Analysis in 1994. It publishes extensive contributions by authors throughout the world - facilitated by a system of international editorial boards and the policy of allowing submission and review in six languages, followed by translation of accepted papers at the Journal's expense.</p>\n<p>Originally founded by Ernest Jones in collaboration with Sigmund Freud in 1920, the Journal publishes contributions on Psychoanalytic Theory &amp; Technique, The History of Psychoanalysis, Clinical Contributions, Education &amp; Professional Issues, Psychoanalytic Psychotherapy, Interdisciplinary Studies, and Film Essays. The Journal also publishes the main papers and panel reports from the International Psychoanalytical Association's Congresses, book reviews, obituaries, and correspondence.</p>\n<p>The Journal also publishes selected papers in the IJP Annuals currently offered in eight different languages.</p>",
         "embargoYears": "3",
         "url": "https://www.tandfonline.com/toc/rips20/current"
       },
@@ -233,7 +233,7 @@
       {
         "sourceCode": "IMAGO",
         "previewHTML": "<p>Imago</p>",
-        "fullHTML": "<p>Imago</p>",
+        "fullHTML": "<p></p>",
         "embargoYears": "3",
         "url": "http://muse.jhu.edu/journals/aim/"
       },
@@ -567,150 +567,157 @@
         "url": "https://www.google.com"
       }
     ],
+      
     "tour": {
       "home": {
-        "text": "<p>This button takes you the PEP-Web front (home) page.</p>",
-        "title": "Home"
+        "text": "<p>Ce bouton vous amène à la « une » (page d'accueil) de PEP-Web.</p>",
+        "title": "Accueil"
       },
       "toggleLeft": {
-        "text": "<p>This button hides (or shows) the left side panel, to allow more room for articles, or to remove distractions while reading.&nbsp;&nbsp;</p>",
-        "title": "Search"
+        "text": "<p>Ce bouton masque (ou affiche) le panneau latéral gauche, pour laisser plus de place aux articles ou pour éviter les distractions lors de la lecture. </p>",
+        "title": "Rechercher"
       },
       "toggleRight": {
-        "text": "<p>This button hides (or shows) the right side panel, to allow more room for articles, or to remove distractions while reading.&nbsp;&nbsp;</p>",
+        "text": "<p>Ce bouton masque (ou affiche) le panneau latéral droit, pour laisser plus de place aux articles ou pour éviter les distractions lors de la lecture. </p>",
         "title": "Widgets"
       },
       "mainNavigation": {
-        "text": "<p>These buttons toggle between the available research activities on PEP-Web -- Searching, Reading, and Browsing.&nbsp; And the Home button takes you back to the top level of PEP-Web, where you first arrive.</p>",
+        "text": "<p>Ces boutons permettent de basculer entre les activités de recherche disponibles sur PEP-Web - recherche, lecture et navigation. Et le bouton Accueil vous ramène au niveau supérieur de PEP-Web, là où vous êtes entré.</p>",
         "title": "Navigation"
       },
       "logo": {
-        "text": "<p>italianClicking on our logo is a shortcut to PEP-Web Information and Support page.</p>",
+        "text": "<p>Un click sur notre logo vous amène à la page d'information et d'assistance PEP-Web.</p>",
         "title": "Logo"
       }
     },
     "cards": {
       "videoPreview": {
-        "help": "Check out the latest video in our system here."
+        "help": "Découvrez ici la dernière vidéo de notre système."
       },
       "topicalVideoPreview": {
-        "help": "Guarda l'ultimo video di attualit\u00e0 nel nostro sistema qui."
+        "help": "Découvrez ici la dernière vidéo thématique de notre système."
       },
       "whatsNew": {
-        "help": "The newest additions to our system can be viewed here."
+        "help": "Les derniers numéros de revues ajoutés à notre système sont listés ici."
       },
       "mostCited": {
-        "help": "The most cited documents throughout our system can be viewed here."
+        "help": "Les documents les plus cités dans notre système sont listés ici."
       },
       "mostViewed": {
-        "help": "The most viewed documents throughout our system can be viewed here."
+        "help": "Les documents les plus consultés dans notre système sont listés ici."
       },
       "relatedDocuments": {
-        "help": "For documents which have related articles, the {faIcon} icon will show up next to listing, indicating that the article is part of a series or has follow up commentary in the journal."
+        "help": "Pour les documents qui ont des articles connexes, l'icône {faIcon} apparaîtra à côté de la liste, indiquant que l'article fait partie d'une série ou a été commenté dans la revue.  "
       },
       "expertPicks": {
-        "help": "Expert picks ...picked expertly for you."
+        "help": "Sélection des experts... articles classiques."
       },
       "glossaryTerms": {
-        "help": "When reading a document, a word cloud of glossary terms will appear here."
+        "help": "Lors de la lecture d'un document, un nuage de mots des termes du glossaire apparaît ici.  Un nuage de mots est un groupe de mots dont la taille et l'épaisseur varient en proportion de leur fréquence d'apparition dans le texte."
       },
       "moreLikeThese": {
-        "help": "Using text analysis and Artificial Intelligence (AI), the search engine recommends documents that are similar to the document you are reading."
+        "help": "Le moteur de recherche utilise l'analyse de texte et l'intelligence artificielle (IA) pour vous recommander des documents similaires à celui que vous lisez."
       },
       "readLater": {
-        "help": "Save items you want to read later here.  Note that you must be a registered user and logged in to the system to use this feature."
+        "help": "Enregistrez ici les éléments que vous souhaitez lire plus tard.  Attention : vous devez être un utilisateur inscrit et connecté au système pour utiliser cette fonction."
       },
       "favorites": {
-        "help": "You can save your favorite documents for easy access here.  Note that you must be a registered user and logged in to the system to use this feature."
+        "help": "Vous pouvez enregistrer ici vos documents favoris pour pouvoir les retrouver facilement.  Attention : vous devez être un utilisateur inscrit et connecté au système pour utiliser cette fonction."
       },
       "publisherInfo": {
-        "help": "Publisher information for the current document you are viewing will appear here.  This data will be finalized in the production release."
+        "help": "Selon leur disponibilité, les informations sur l'éditeur concernant le document que vous consultez actuellement apparaîtront ici."
       }
     },
     "signInCard": {
-      "body": "<p>This is the Psychoanalytic Electronic Publishing Archive full text database. It is freely available for everyone to search, view tables of contents, and view abstracts and summaries. However you will need a paid subscription in order to view the full text of articles.<br /><br />All users can register to get a username and access password that will let you save your application preferences, customize the information displayed by the interface, and save bookmarks and favorites. University, group, and federation users need to register to get an individual login to save their preferences as well.</p>",
-      "help": "Sign in help",
+      "body": "<ul>\n<li>Si vous-mêmes, votre université ou votre groupe êtes abonnés à la <em>bibliothèque psychanalytique PEP-Web, </em>pensez à <strong>vous connecter à chaque fois que vous la consultez</strong> ; vous pourrez ainsi utiliser les fonctionnalités avancées de personnalisation. <strong>Si vous avez déjà un nom d’utilisateur et un mot de passe</strong>, saisissez-les ci-dessus.</li>\n<li><strong>Si vous accédez via le site Web d'un groupe ou de la bibliothèque d'une institution -  </strong>Lors de votre première visite, utilisez le lien d’inscription ci-dessus pour obtenir un nom d’utilisateur et un mot de passe gratuits. Vous pourrez alors utiliser ce compte en accédant directement à ce site, mais il vous faudra le revalider tous les 90 jours en y accédant depuis le site Web de votre groupe ou de la bibliothèque de votre institution. </li>\n<li><strong>Si vous disposez d'un accès fédéré hors campus</strong> et que votre compte n'a pas encore été validé, cliquez sur Connexion Fédérée/OpenAthens ci-dessus. Si c'est votre première visite alors une fois que serez revenu ici, utilisez le lien d'inscription ci-dessus pour obtenir votre nom d'utilisateur et votre mot de passe gratuits.</li>\n</ul>\n<p>Remarque : vous avez besoin d’un abonnement valide pour lire le texte complet des articles. Si vous ou votre institution n'êtes pas abonnés à PEP-Web, <a href=\"http://support.pep-web.org/subscribe/\">cliquez ici</a> pour obtenir des informations sur l’inscription. </p>\n<p>Remarque : les abonnements vous donnent accès aux archive PEP. Les articles de revues publiés au cours des 3 (parfois 5) dernières années ne sont disponibles que sous forme de sommaires (abstracts). Pour plus d’informations, cliquez <a href=\"http://support.pep-web.org/subscribe/\">ici</a></p>",
+      "help": "Aide à la connexion",
       "collapsible": false,
-      "side": "right"
-    }
+      "side": "droit"
+    },
+    "adminSpecifiedInformationItems": [
+      {
+        "id": "connexion",
+        "value": "<p>test</p>"
+      }
+    ]
   },
   "home": {
     "intro": {
-      "left": "<p><span style=\"font-size: 14pt;\">\u25c0\ufe0f</span><strong> Tu busqueda comienza aqui!&nbsp; </strong>PEPWEB contains more than 136,000 articles covering over a million pages.&nbsp; To use it to your advantage, SEARCH!</p>\n<ul>\n<li>\"What are you looking for?\" The top box to the left takes all kinds of search inputs.\n<ul>\n<li>Type in some psychoanalytic terms - <strong>to get useful results and to avoid a deluge, enter two or three at a time.</strong>&nbsp;&nbsp;<br />&nbsp; &nbsp;Doing that will make the search more precise, returning only the most relevant results.</li>\n<li>Or paste a reference from an article into the field</li>\n<li>Or type a Journal name or part of a journal name</li>\n<li>Or type an Author name</li>\n</ul>\n</li>\n<li>For tips and more information about other ways to search, see our <a title=\"Search Help\" href=\"https://fb.watch/4634xBWSZF/\" target=\"_blank\" rel=\"noopener\">Search Help video</a></li>\n</ul>",
-      "right": "<table style=\"border-collapse: collapse; width: 88.9662%; height: 217px;\" border=\"0\">\n<tbody>\n<tr style=\"height: 217px;\">\n<td style=\"width: 60.7265%; height: 12px; vertical-align: middle;\">\n<p><strong>Some Special Features</strong></p>\n<ul>\n<li>Fully Text Searchable Vids leading psychoanalysts&nbsp;</li>\n<li>Translate texts into your language (on Google Chrome)</li>\n<li>Freud in his original German (paragraph linked to the Standard Edition)</li>\n<li>Freud in the Standard Edition English translation (paragraph linked to original German)</li>\n<li>Personalised suggestions and saved articles.</li>\n</ul>\n</td>\n<td style=\"width: 48.2733%; height: 150px; line-height: 1; text-align: center; vertical-align: middle;\"><iframe class=\"wistia_embed\" title=\"Insights in Psychoanalysis: Promo Video\" src=\"https://fast.wistia.net/embed/iframe/325oopii20?videoFoam=true\" name=\"wistia_embed\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"\"></iframe></td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>"
+      "left": "<p>PEP-Web contient plus de 136 000 articles qui totalisent plus d’un million de pages. Utilisez-le :</p>\n<ul>\n<li>Pour approfondir vos connaissances en trouvant quelque chose de nouveau ! <strong>C'est sa valeur première</strong>.</li>\n<li>Pour trouver quelque chose dont vous pensez déjà que cela se trouve ici.</li>\n<li>Pour vous y déplacer comme dans une bibliothèque physique.</li>\n</ul>\n<p>◀️<strong>   Élargissez vos connaissances</strong> La case en haut à gauche s'appelle <strong><em>SmartSearch (Recherche intelligente)</em></strong>. Elle accepte toutes sortes d'entrées de recherche.</p>\n<ul>\n<li>Essayez-la : saisissez-y des termes psychanalytiques - afin d'obtenir des résultats utiles et de ne pas être submergé<strong>, saisissez-en deux ou trois à la fois.</strong> Cela permettra de préciser la recherche et de n'obtenir que les résultats les plus pertinents.</li>\n<li>Vous pouvez également coller dans le champ la référence d'un article, y saisir un nom de revue ou une partie d'un nom de revue, ou y saisir un nom d’auteur ou encore bien d'autres choses.</li>\n</ul>\n<h5><strong>✅ <span style=\"font-size: 12pt;\">Sélectionnez une </span></strong><span style=\"font-size: 12pt;\">vidéo ci-dessous ou visitez le <a href=\"http://support.pep-web.org/the-new-pep-web/\" target=\"_blank\" rel=\"noopener\">site d'assistance PEP</a></span></h5>\n<table style=\"border-collapse: collapse; width: 91.373%; border-style: hidden;\" border=\"1\">\n<tbody>\n<tr style=\"text-align: center;\">\n<td style=\"width: 20.6591%;\"><a href=\"http://support.pep-web.org/the-new-pep-web-for-fall-of-2021-in-progress/pep-web-2021-video-tutorials/pep-web-2021-video-tutorial-more/\" target=\"_blank\" rel=\"noopener\"><span style=\"background-color: #c2e0f4;\"><strong>Introduction rapide</strong></span></a> </td>\n<td style=\"width: 34.4264%;\"><a href=\"http://support.pep-web.org/the-new-pep-web-for-fall-of-2021-in-progress/pep-web-2021-video-tutorials/pep-web-2021-video-tutorial-search/\" target=\"_blank\" rel=\"noopener\"><span style=\"background-color: #bfedd2;\"><strong>Recherche et navigation</strong></span></a></td>\n<td style=\"width: 27.1067%;\"><a href=\"http://support.pep-web.org/the-new-pep-web-for-fall-of-2021-in-progress/pep-web-2021-video-tutorials/pep-web-2021-video-tutorial-refine/\" target=\"_blank\" rel=\"noopener\"><strong><span style=\"background-color: #fbeeb8;\">Affiner vos résultats</span></strong></a></td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>",
+      "right": "<h4><strong>Quelques fonctionnalités spéciales</strong></h4>\n<p><a href=\"../../browse/document/PEPTOPAUTHVS.001.0021A\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://pep-web-video-previews.s3.amazonaws.com/pepvideomatrix.jpg\" alt=\"\" width=\"386\" height=\"197\" /></a></p>\n<ul>\n<li><a href=\"../../browse/document/PEPTOPAUTHVS.001.0021A\"> Vidéos des principaux psychanalystes avec recherche plein texte</a> </li>\n<li>Traduire des textes dans votre langue (sur Google Chrome)</li>\n<li><a href=\"../../browse/book/gw\">Freud dans l'original allemand</a> (paragraphe lié à la Standard Edition)</li>\n<li><a href=\"../../browse/book/se\">Freud dans la traduction anglaise de la Standard Edition</a> (paragraphe lié à l'original allemand)</li>\n<li>Suggestions personnalisées et articles enregistrés</li>\n</ul>"
     },
     "newsAndInfo": {
       "boxOne": {
-        "heading": "79 Premier Psychoanalytic Journals",
-        "body": "<div style=\"background-image: url('https://pep-web-gui.s3.amazonaws.com/journal_composite.jpg');\">\n<p>PEP-Web is the quintessential archive of psychoanalytic scholarship,</p>\n<p>with the full text of 79 premier journals dating back to 1911,</p>\n<p>cross-linked to each other, and where a multi-source psychoanalytic glossary</p>\n<p>is a click away for any psychoanalytic term. There are over 136 thousand articles</p>\n<p>totaling over 1.2 million printed pages</p>\n</div>"
+        "heading": "79 revues réputées",
+        "body": "<p align=\"center\"><a href=\"../../browse\"><img src=\"https://pep-web-gui.s3.amazonaws.com/journal_composite.jpg\" alt=\"\" width=\"197\" height=\"205\" /></a></p>"
       },
       "boxTwo": {
-        "heading": "100 Classic Psychoanalytic Books",
-        "body": "<p>The PEP-Web Archive has the complete content of the Standard Edition of the Complete Psychological Works of Sigmund Freud and the 19 volume German Freud Standard Edition Gesammelte Werke, and includes a concordance between editions where corresponding paragraphs are cross-linked. The Archive also contains 100 classic psychoanalytic books, including classic authors such as Bion, Bowlby, Klein, Meltzer, Winnicott, and many more.</p>"
+        "heading": "100 livres classiques",
+        "body": "<p align=\"center\"><a href=\"../../browse/book/gw\"><img src=\"https://pep-web-gui.s3.amazonaws.com/book composite.jpg\" alt=\"\" width=\"189\" height=\"197\" /></a></p>"
       }
     },
     "expertPickOfTheDay": {
-      "help": "Every day we will suggest a landmark article in Psychoanalysis, and other articles that we think should be of interest to subscribers. "
+      "help": "Nous proposons chaque jour un article de référence en psychanalyse et d'autres articles qui, selon nous, devraient intéresser les abonnés. "
     }
   },
   "search": {
     "tooManyResults": {
-      "instructions": "Enter at least two terms, additional criteria, and/or use the 'Refine' form below to increase search precision."
+      "instructions": "Pour améliorer la précision de la recherche saisissez au moins deux termes, des critères supplémentaires ou utilisez le formulaire « Affiner » ci-dessous."
     },
     "smartSearch": {
-      "help": "SmartSearch, based on the semantics of what you enter. It can recognize a citation (author and year) or reference in APA format, a DOI, a PEP Article ID (e.g., PAQ.073.0005A), an author name, or several (with proper case).  Enter words or phrases, and it will search for those anywhere in the document. "
+      "help": "SmartSearch utilise la sémantique de votre entrée de recherche pour trouver des documents. Il sait identifier les éléments fondamentaux du document, par exemple les titres et les noms d'auteurs, ainsi que\n<small>\n<ul>\n<li>les opérateurs booléens (<a href=\"https://pep-web.rocks/search?q=boy OR girl\">chien AND (garçon OR fille)</a>)</li>   \n<li>les citations (<a href=\"https://pep-web.rocks/search?q=Bowlby 1940\">Bowlby 1940</a>)</li>   \n<li>les références au format APA</li>    \n<li>Les DOI (<a href='https://pep-web.rocks/search?q=10.1080%2F00107530.2014.868299'>10.1080%2F00107530.2014.868299</a>)</li>   \n<li>Les ID d'articles PEP (<a href=\"https://pep-web.rocks/search?q=PAQ.073.0005A\">PAQ.073.0005A</a>)</li>   \n<li>volume:page (<a href=\"https://pep-web.rocks/search?q=97: 239\">97: 239</a>)</li></ul>\n</small>Nous nous efforçons de le rendre toujours plus intelligent, mais s'il ne reconnaît pas ce que vous saisissez, il trouvera les mots ou les expressions dans un paragraphe du document.  Vous pouvez également utiliser la recherche <a href=\"http://support.pep-web.org/the-new-pep-web/pep-web-2021-help-topics/advanced-search/\" target=\"_blank\">avancée</a> et <a href=\"http://support.pep-web.org/the-new-pep-web/pep-web-2021-help-topics/pep-web-2021-fielded-search/\" target=\"_blank\">avancée avec champs</a> (art_reference_count: [50 TO *]).\n\n\n"
     },
     "matchSynonyms": {
-      "help": "Return results that also match synonyms to the entered search terms, using the Psychoanalytic glossaries as a basis"
+      "help": "Renvoie des résultats qui correspondent aussi aux synonymes des termes de recherche saisis, en utilisant <a href=\"https://pep-web.rocks/search?q=APA.024.0409A\">Klumpner's Toward a Conceptual Index of Psychoanalytic Terms: A Method to Develop a Psychoanalytic Thesaurus</a>."
     },
     "limitTo": {
-      "help": "Clicking on this adds new search controls to restrict the search results to documents with a specific number of citations or views"
+      "help": "Cliquer ici pour ajouter de nouveaux contrôles de recherche au formulaire qui vous permettent de limiter les résultats de la recherche aux documents cités ou vus un nombre donné de fois."
     },
     "hitsInContext": {
-      "help": "Show a summary of the hits with some document context"
+      "help": "Lister pour chaque document quelques correspondances dans le contexte du document.  Vous pouvez modifier le nombre d'extraits à afficher dans vos préférences."
     },
     "terms": {
       "types": {
         "everywhere": {
-          "prompt": "Terms or phrase",
-          "help": "Search for words in the same paragraph, or phrases of anywhere in the document, including abstracts and references. Surround phrases with quotes."
+          "prompt": "Termes ou expression",
+          "help": "Recherchez des documents contenant ces mots ou expressions dans un paragraphe.  Recherchez n'importe où dans le document, y compris dans les sommaires et dans les références. Mettez les expressions \"entre guillemets anglais\".  Jokers * (plusieurs caractères) et ? (caractère unique) peuvent être utilisés.  <a href=\"http://support.pep-web.org/the-new-pep-web/pep-web-2021-help-topics\" target=\"_blank\">Plus d'information...</a> \n<small>\n<br>Exemples :\n<ul><li>Recherche de mots : covid peur</li>\n<li>Recherche d'expression : \"covid peur\"</li>\n<li>Jokers : c?vid peur*</li>\n<li>Proximité : \"covid peur\"~10</li>\n</ul> </small>"
         },
         "author": {
-          "prompt": "Author's name",
-          "help": "Find author names (e.g., Lastname, or Lastname, Firstname). Use * to search partial names.",
-          "wordWheelSearchType": "text"
+          "prompt": "Nom de l'auteur",
+          "help": "Recherchez des documents par auteur.  Entrez un ou plusieurs noms d'auteurs (fonctionne mieux avec uniquement les noms de famille). Utilisez des jokers tels que * pour remplacer plusieurs caractères ou ? pour remplacer un seul caractère. <a href=\"http://support.pep-web.org/the-new-pep-web/pep-web-2021-help-topics\" target=\"_blank\">Plus d'information...</a> \n<small>\n<br>Exemples :\n<ul><li>Recherche d'auteur : Ammaniti</li>\n<li>Recherche par nom complet : \"Ammaniti, M.\"</li>\n<li>Jokers : Amm?n*</li>\n<li>Multiple : Ammaniti & Ginzb*</li>\n</ul> \n</small>\n",
+          "wordWheelSearchType": "texte"
         },
         "title": {
-          "prompt": "Document title",
-          "help": "Search for words or phrases within document titles. Surround phrases with quotation marks."
+          "prompt": "Titre du document",
+          "help": "Recherchez des documents contenant des mots ou des expressions dans le titre. Mettez les expressions \"entre guillemets anglais\". Utilisez des jokers tels que * pour remplacer plusieurs caractères ou ? pour remplacer un seul caractère.\n  <a href=\"http://support.pep-web.org/the-new-pep-web/pep-web-2021-help-topics\" target=\"_blank\">Plus d'information...</a> \n<small>\n<br>Exemples :  \n<ul>\n<li>Recherche de mots : fantasmes inconscients</li>\n<li>Recherche d'expression : \"fantasmes inconscients\"</li>\n<li>Jokers : fantas* inconscients</li>\n<li>Proximité : \"fantas* inconscients\"~10</li>\n</ul> \n</small>"
         },
         "dream": {
-          "prompt": "Terms or phrase",
-          "help": "Search for words in the same paragraph, or phrases, in areas of documents which are ons of dreams. Surround phrases with quotes."
+          "prompt": "Termes ou expression",
+          "help": "Recherchez des documents contenant certains mots ou expressions à l'intérieur d'un paragraphe dans des passages décrivant des rêves. Mettez les expressions \"entre guillemets anglais\".\nUtilisez des jokers tels que * pour remplacer plusieurs caractères ou ? pour remplacer un seul caractère. <a href=\"http://support.pep-web.org/the-new-pep-web/pep-web-2021-help-topics\" target=\"_blank\">Plus d'information...</a> \n<small>\n<br>Exemples :  \n<ul>\n<li>Recherche de mots : pipi lit</li>\n<li>Recherche par expression : \"pipi au lit\"</li>\n<li>Jokers : pip* lit</li>\n<li>Proximité : \"pip* lit\"~10</li>\n</ul> </small>"
         },
         "quote": {
-          "prompt": "Terms or phrase",
-          "help": "Search for words in the same paragraph, or phrases, in areas of documents which are quoted passages. Surround phrases with quotation marks."
+          "prompt": "Termes ou expression",
+          "help": "Recherchez des documents contenant certains mots ou expressions à l'intérieur d'un paragraphe des passages cités. Mettez des expressions \"entre guillemets anglais\". <a href=\"http://support.pep-web.org/the-new-pep-web/pep-web-2021-help-topics\" target=\"_blank\">Plus d'information...</a> \n<small>\n<br>Exemples :  \n<ul>\n<li>Recherche de mots : travail et jeu</li>\n<li>Recherche de phrases : \"travail et jeu\"</li>\n<li>Jokers : \"travail et jeu*\"</li>\n<li>Proximité : \"travail et jeu\"~9</li>\n</ul> </small>"
         },
         "reference": {
-          "prompt": "Terms or phrase",
-          "help": "Search for words in the same reference, or phrases, in the reference section (bibliographies) of documents. Surround phrases with quotation marks."
+          "prompt": "Termes ou expression",
+          "help": "Recherchez des documents contenant certains mots ou expressions dans la même référence de la bibliographie. Mettez les expressions \"entre guillemets anglais\".  <a href=\"http://support.pep-web.org/the-new-pep-web/pep-web-2021-help-topics\" target=\"_blank\">Plus d'information...</a> \n<small>\n<br>Exemples :  \n<ul>\n<li>Recherche de mots : Geste spontané</li>\n<li>Recherche d'expression : \"Geste spontané\"</li>\n<li>Jokers : \"Gest* spontan*\"</li>\n<li>Proximité : \"Geste spontané\"~9</li>\n</ul> </small>"
         },
         "dialog": {
-          "prompt": "Terms or phrase",
-          "help": "Search for words in the same paragraph, or phrases, in areas of documents which are dialogs between people. Surround phrases with quotation marks."
+          "prompt": "Termes ou expression",
+          "help": "Recherchez des documents contenant certains mots ou expressions à l'intérieur d'un paragraphe dans les dialogues entre personnes. Mettez les expressions \"entre guillemets anglais\".  <a href=\"http://support.pep-web.org/the-new-pep-web/pep-web-2021-help-topics\" target=\"_blank\">Plus d'information...</a> \n<small>\n<br>Exemples :  \n<ul>\n<li>Recherche de mots : anxiété objective</li>\n<li>Recherche d'expression : \"anxiété objective\"</li>\n<li>Jokers : \"anx* objec*\"</li>\n<li>Proximité : <a href='https://stage.pep-web.rocks/search?searchTerms=%5B%7B%22type%22%3A%22dialog%22%2C%22term%22%3A%22%5C%22objective%20anxiety%5C%22~4%22%7D%5D'>\"anxiété objective\"~3</a></li>\n</ul> </small>"
         },
         "article": {
-          "prompt": "Terms or phrase",
-          "help": "Search for words in the same paragraph, or phrases, anywhere in the document EXCEPT in abstracts, summaries, and references. Surround phrases with quotation marks."
+          "prompt": "Termes ou expression",
+          "help": "Recherchez des documents contenant des mots ou des phrases dans un paragraphe n'importe où dans le document, SAUF dans les sommaires, les résumés et les références. Mettez les expressions \"entre guillemets anglais\". <a href=\"http://support.pep-web.org/the-new-pep-web/pep-web-2021-help-topics\" target=\"_blank\">Plus d'information</a> \n<small>\n<br>Exemples :  \n<ul>\n<li>Recherche de mots : modèles contemporains de psychanalyse</li>\n<li>Recherche d'expression : \"modèles contemporains de psychanalyse\"</li>\n<li>Jokers : \"modèles contemporains de psych*\"</li>\n<li>Proximité : \"modèles contemporains de psychanalyse\"~5</li>\n</ul> </small>"
         },
         "startYear": {
-          "prompt": "Publication year",
-          "help": "Find documents published on or before/after a year, or within a range of years (e.g, \"1999\", \"<1999\", \">1999\", \"1999-2010\")"
+          "prompt": "Année de parution",
+          "help": "Recherchez des documents publiés au cours ou avant ou après une année donnée, ou dans un intervalle d'années. <a href=\"http://support.pep-web.org/the-new-pep-web/pep-web-2021-help-topics\" target=\"_blank\">Plus d'informations...</a> \n<small>\n<br>Exemples :  \n<ul>\n<li>Une année précise : 1999</li>\n<li>Avant : <1999/li\n<li>Après : >1999</li>\n<li>Intervalle : 1999-2010</li>\n</ul> \n</small>\n"
         },
         "endYear": {
-          "prompt": "Publication year",
-          "help": "Find documents published on or before/after a year, or within a range of years (e.g, \"1999\", \"<1999\", \">1999\", \"1999-2010\")"
+          "prompt": "Année de parution",
+          "help": "Recherchez des documents publiés au cours ou avant ou après une année donnée, ou dans un intervalle d'années (par exemple, \"1999\", \"<1999\", \"> 1999\", \"1999-2010\")"
         }
       }
     }
