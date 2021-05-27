@@ -547,7 +547,12 @@
         "federatedLogin": "Federated/OpenAthens Login",
         "notARegisteredUser": "Not a registered user?",
         "clickToRegister": "Click here to register",
-        "groupInformation": "You have been granted partial access to PEP via {org} based on {method}. To have full access please login or create an account."
+        "groupInformation": "You have been granted full archive access to PEP because your institution has a valid subscription based on what is called a {method} logon. But to be able to alter the look and feel of the site, save papers, searches and favorites and many other things, you need to become a registered user (which is free). You do that once, then access this site direct using the personal login you create. (Every 90 days you need to come in via your university/institute to re-validate). If you already have a log-in on the PaDS system, use that.  Click '<a href=\"http://support.pep-web.org/login-help\" target=\"_blank\">'here'</a>' for more details.",
+        "component": {
+            "ip": "IP address",
+            "federated": "Federated",
+            "referral": "Referral"
+        }
     },
     "federatedLogin": {
         "title": "Federated/OpenAthens Login",
@@ -769,7 +774,8 @@
             "url": "URL *",
             "selectFeedbackType": "Select a feedback type",
             "type": "Type",
-            "fullName": "Full Name *"
+            "fullName": "Full Name *",
+            "email": "Email Address *"
         },
         "feedbackTypes": {
             "feedback": "Feedback",
@@ -971,7 +977,8 @@
                 },
                 "signInCard": {
                     "title": "Sign In Card",
-                    "body": "Sign In Card Body"
+                    "body": "Sign In Card Body",
+                    "groupInformation": "Group Information Header"
                 }
             },
             "home": {
