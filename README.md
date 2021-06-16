@@ -7,7 +7,7 @@ See issues for more notes concerning specific loads here.
 
 ## Top Level files
 
-Current set of files loaded to system
+Current set of files in English.  There are two files, one for the ADMIN settings (read by the APP in the database) and another for direct use by the client APP (needs to be in pep/dist/translatons folder during compilation)
 
 ## For Translation
 
@@ -15,10 +15,11 @@ Files sent for translation.
 
 ## Translated
 
-Files as received from translators.  
-   These are then copied to top level folder which is current set of language files.
+Translated Files.  Prefix Labeled as "ADMIN" and "APP" to indicate where they are applied.  ADMIN files are loaded into the SQL database table opascentral.api_client_configs, and APP files are loaded directly to the APP in the pep/dist/translatons folder.
 
-## Drafts
+The APP files need the prefix "APP." removed from them before placing in the pep/dist/translatons folder
 
-Temporary language drafts
+## EarlyDrafts(Deprecated)
+
+Temporary language drafts (deprecated)
 
