@@ -1,0 +1,162 @@
+{
+  "global": {
+    "tips": {
+      "isEnabled": true,
+      "list": []
+    },
+    "tour": {
+      "home": {
+        "text": "<p>Este botón le lleva a la página principal (de inicio) de PEP Web.</p>",
+        "title": "Inicio"
+      },
+      "toggleLeft": {
+        "text": "<p>Este botón oculta (o muestra) el panel lateral izquierdo, para dejar más espacio para los artículos o para evitar las distracciones mientras lee. </p>",
+        "title": "Buscar"
+      },
+      "toggleRight": {
+        "text": "<p>Este botón oculta (o muestra) el panel lateral derecho, para dejar más espacio para los artículos o para evitar las distracciones mientras lee. </p>",
+        "title": "«Widgets»"
+      },
+      "mainNavigation": {
+        "text": "<p>Estos botones alternan entre las actividades de investigación disponibles en PEP Web: búsqueda, lectura y navegación. Y el botón Inicio le lleva de regreso al nivel superior de PEP Web, donde llegó por primera vez.</p>",
+        "title": "Navegación"
+      },
+      "logo": {
+        "text": "<p>El clic en nuestro logotipo es un acceso directo a la página de información y asistencia de PEP Web.</p>",
+        "title": "Logotipo"
+      }
+    },
+    "cards": {
+      "videoPreview": {
+        "help": "Vea el último vídeo de actualidad en nuestro sistema aquí."
+      },
+      "topicalVideoPreview": {
+        "help": "Vea el último vídeo de actualidad en nuestro sistema aquí."
+      },
+      "whatsNew": {
+        "help": "Los números de revistas más recientes añadidos a nuestro sistema se indican aquí."
+      },
+      "mostCited": {
+        "help": "Los documentos más citados en todo nuestro sistema se enumeran aquí."
+      },
+      "mostViewed": {
+        "help": "Los documentos más vistos en todo nuestro sistema se enumeran aquí."
+      },
+      "relatedDocuments": {
+        "help": "En el caso de los documentos que tienen artículos relacionados, el icono {faIcon} aparecerá junto a la lista, lo que indica que el artículo es parte de una serie o que tiene comentarios de seguimiento en la revista.  "
+      },
+      "expertPicks": {
+        "help": "Selecciones de expertos... artículos clásicos."
+      },
+      "glossaryTerms": {
+        "help": "Al leer un documento, aparecerá aquí una nube de palabras de términos del glosario. Una nube de palabras es un grupo de palabras en el que se usan tamaños más grandes y en negrita para mostrar cuántas veces apareció en el texto."
+      },
+      "moreLikeThese": {
+        "help": "Mediante el análisis de texto y la inteligencia artificial (IA), el motor de búsqueda recomienda documentos similares al documento que está leyendo."
+      },
+      "readLater": {
+        "help": "Guarde aquí los elementos que desee leer más tarde. Tenga en cuenta que debe ser un usuario registrado y haber iniciado sesión en el sistema para utilizar esta función."
+      },
+      "favorites": {
+        "help": "Puede guardar sus documentos favoritos para acceder fácilmente aquí. Tenga en cuenta que debe ser un usuario registrado y haber iniciado sesión en el sistema para utilizar esta función."
+      },
+      "publisherInfo": {
+        "help": "La información del editor del documento actual que está viendo aparecerá aquí, si está disponible."
+      }
+    },
+    "signInCard": {
+      "groupInformation": "<p>Se le ha otorgado acceso completo a los archivos de PEP porque su institución tiene una suscripción válida basada en lo que se llama un inicio de sesión de «Referido/Federado-OpenAthens/Dirección IP». Pero para poder alterar la apariencia del sitio, guardar documentos, búsquedas y favoritos y muchas otras cosas, debe ser usuario registrado (lo cual es gratis). Hágalo una vez y luego podrá acceder a este sitio directamente con el inicio de sesión personal que ha creado. (Cada 90 días debe entrar a través de su universidad o instituto para volver a validarlo). Si ya tiene un inicio de sesión en el sistema PaDS, utilícelo. Haga clic <a href=\"http://support.pep-web.org/login-help\" target=\"_blank\" rel=\"noopener\">aquí</a> para obtener más detalles.</p>",
+      "body": "<ul>\n<li>Si usted, su universidad o su grupo tienen una suscripción a la <em>biblioteca psicoanalítica PEP-Web,</em> entonces <strong>cada vez que acceda aquí deberá iniciar sesión</strong> para poder utilizar las funciones de personalización avanzadas. <strong>Si ya tiene un nombre de usuario y contraseña, </strong>introdúzcalos arriba.</li>\n<li><strong>Si accede a través del sitio web de una biblioteca grupal o institucional: </strong>en su primera visita, use el enlace de registro anterior para obtener un nombre de usuario y contraseña gratuitos. Después podrá usar esa cuenta accediendo directamente a este sitio, pero se le pedirá cada 90 días que vuelva a validarla accediendo desde el sitio web de su biblioteca grupal o institucional. </li>\n<li><strong>Si tiene acceso federado fuera del campus</strong> y su cuenta aún no ha sido validada, haga clic en Inicio de sesión federado/OpenAthens arriba. Si es su primera visita, una vez que regrese aquí, use el enlace de registro anterior para obtener su nombre de usuario y contraseña gratuitos.</li>\n</ul>\n<p>Nota: Para leer el texto completo de los artículos, necesita una suscripción validada. Si usted o su institución no se suscriben a PEP Web, haga <a href=\"http://support.pep-web.org/subscribe/\">clic aquí</a> para obtener información sobre cómo suscribirse. </p>\n<p>Nota: Las suscripciones le dan acceso a PEP Archive. Los artículos de revistas publicados en los últimos 3 años (a veces 5 años) solo están disponibles como resúmenes. Para obtener más información, haga clic <a href=\"http://support.pep-web.org/subscribe/\">aquí</a></p>.",
+      "help": "Ayuda para iniciar sesión",
+      "collapsible": false,
+      "side": "derecho"
+    },
+    "adminSpecifiedInformationItems": [
+      {
+        "id": "inicio de sesión",
+        "value": "<p>prueba</p>"
+      }
+    ]
+  },
+  "home": {
+    "intro": {
+      "left": "<p>PEP Web contiene más de 136 000 artículos que abarcan más de un millón de páginas. Utilícela:</p><ul>\n<li>Para ampliar su conocimiento al encontrar algo nuevo.<strong>Este es su valor principal</strong>.</li>\n<li>Para encontrar algo que ya sabe que está aquí.</li>\n<li>Para navegar por ella como una biblioteca física.</li>\n</ul>\n<p>◀️<strong>   Amplíe sus conocimientos</strong> El cuadro superior a la izquierda se llama <strong><em>SmartSearch</em></strong>. Acepta todo tipo de entradas de búsqueda.</p>\n<ul>\n<li>Pruébelo escribiendo algunos términos psicoanalíticos: para obtener resultados útiles y no sentirse abrumado<strong>, introduzca dos o tres a la vez.</strong> Esto hará que la búsqueda sea más precisa, devolviendo solo los resultados más relevantes.</li>\n<li>También puede pegar una referencia de un artículo en el campo, escribir el nombre de una revista o parte del nombre de una revista o escribir un nombre de autor, entre muchas otras cosas.</li>\n</ul>\n<h5><strong>✅ <span style=\"font-size: 12pt;\">Seleccione un </span></strong><span style=\"font-size: 12pt;\">vídeo a continuación o visite el <a href=\"http://support.pep-web.org/the-new-pep-web/\" target=\"_blank\" rel=\"noopener\">sitio de asistencia de PEP</a></span></h5>\n<table style=\"border-collapse: collapse; width: 91.373%; border-style: hidden;\" border=\"1\">\n<tbody>\n<tr style=\"text-align: center;\">\n<td style=\"width: 20.6591%;\"><a href=\"http://support.pep-web.org/the-new-pep-web-for-fall-of-2021-in-progress/pep-web-2021-video-tutorials/pep-web-2021-video-tutorial-more/\" target=\"_blank\" rel=\"noopener\"><span style=\"background-color: #c2e0f4;\"><strong>Presentación rápida</strong></span></a> </td>\n<td style=\"width: 34.4264%;\"><a href=\"http://support.pep-web.org/the-new-pep-web-for-fall-of-2021-in-progress/pep-web-2021-video-tutorials/pep-web-2021-video-tutorial-search/\" target=\"_blank\" rel=\"noopener\"><span style=\"background-color: #bfedd2;\"><strong>Buscar y navegar</strong></span></a></td>\n<td style=\"width: 27.1067%;\"><a href=\"http://support.pep-web.org/the-new-pep-web-for-fall-of-2021-in-progress/pep-web-2021-video-tutorials/pep-web-2021-video-tutorial-refine/\" target=\"_blank\" rel=\"noopener\"><strong><span style=\"background-color: #fbeeb8;\">Afinar sus resultados</span></strong></a></td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>",
+      "right": "<h4><strong>Algunas características especiales</strong></h4>\n<p><a href=\"../../browse/document/PEPTOPAUTHVS.001.0021A\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://pep-web-video-previews.s3.amazonaws.com/pepvideomatrix.jpg\" alt=\"\" width=\"386\" height=\"197\" /></a></p>\n<ul>\n<li><a href=\"../../browse/document/PEPTOPAUTHVS.001.0021A\">Vídeos de búsqueda de texto completo de psicoanalistas destacados</a> </li>\n<li>Traduce los textos a su idioma (en Google Chrome)</li>\n<li><a href=\"../../browse/book/gw\">Freud en su alemán original</a> (párrafo vinculado a la edición estándar)</li>\n<li><a href=\"../../browse/book/se\">Freud en la edición estándar</a> de la traducción al inglés (párrafo vinculado al alemán original)</li>\n<li>Sugerencias personalizadas y artículos guardados</li>\n</ul>"
+    },
+    "newsAndInfo": {
+      "boxOne": {
+        "heading": "79 revistas de primer nivel",
+        "body": "<p align=\"center\"><a href=\"../../browse\"><img src=\"https://pep-web-gui.s3.amazonaws.com/journal_composite.jpg\" alt=\"\" width=\"197\" height=\"205\" /></a></p>"
+      },
+      "boxTwo": {
+        "heading": "100 libros clásicos",
+        "body": "<p align=\"center\"><a href=\"../../browse/book/gw\"><img src=\"https://pep-web-gui.s3.amazonaws.com/book composite.jpg\" alt=\"\" width=\"189\" height=\"197\" /></a></p>"
+      }
+    },
+    "expertPickOfTheDay": {
+      "help": "Todos los días sugeriremos un artículo de referencia sobre psicoanálisis y otros artículos que creemos que deberían ser de interés para los suscriptores. "
+    }
+  },
+  "search": {
+    "tooManyResults": {
+      "instructions": "Introduzca al menos dos términos, criterios adicionales o use el siguiente formulario «Afinar» para aumentar la precisión de la búsqueda."
+    },
+    "smartSearch": {
+      "help": "SmartSearch encuentra documentos basados en la semántica de su entrada de búsqueda. Reconoce los componentes básicos del documento, por ejemplo, títulos y nombres de autores, además de\n<small>\n<ul>\n<li>booleanos (<a href=\"https://pep-web.rocks/search?q=boy OR girl\">perro Y (niño O niña)</a>)</li>\n<li>citas (<a href=\"https://pep-web.rocks/search?q=Bowlby 1940\">Bowlby 1940</a>)</li>\n<li>referencias en formato APA</li>\n<li>DOI (<a href='https://pep-web.rocks/search?q=10.1080%2F00107530.2014.868299'>10.1080%2F00107530.2014.868299</a>)</li>   \n<li>Id. de artículo de PEP (<a href=\"https://pep-web.rocks/search?q=PAQ.073.0005A\">PAQ.073.0005A</a>)</li>   \n<li>volumen:página (<a href=\"https://pep-web.rocks/search?q=97: 239\">97: 239</a>)</li></ul>\n</small>Siempre estamos trabajando para hacerlo más inteligente, pero si no reconoce lo que introduce, encontrará las palabras o frases dentro de un párrafo en el documento. También puede utilizar <a href=\"http://support.pep-web.org/the-new-pep-web/pep-web-2021-help-topics/advanced-search/\" target=\"_blank\"></a> la búsqueda Avanzada y <a href=\"http://support.pep-web.org/the-new-pep-web/pep-web-2021-help-topics/pep-web-2021-fielded-search/\" target=\"_blank\">Avanzada en campo</a> art_reference_count: [50 TO *]).\n\n\n"
+    },
+    "matchSynonyms": {
+      "help": "Devuelve resultados que también coinciden con los sinónimos de los términos de búsqueda introducidos, utilizando <a href=\"https://pep-web.rocks/search?q=APA.024.0409A\">Hacia un índice conceptual de términos psicoanalíticos de Klumpner: un método para desarrollar un catálogo psicoanalítico</a>."
+    },
+    "limitTo": {
+      "help": "Al hacer clic en este, se añaden nuevos controles de búsqueda al formulario, de modo que puede restringir los resultados de la búsqueda a documentos con un número específico de citas o vistas."
+    },
+    "hitsInContext": {
+      "help": "Enumere algunas de las coincidencias en el contexto del documento con cada documento. Puede cambiar la cantidad de visitas que se muestran en sus preferencias."
+    },
+    "terms": {
+      "types": {
+        "everywhere": {
+          "prompt": "Términos o frase",
+          "help": "Busque documentos con estas palabras o frases dentro de un párrafo. Busque en cualquier lugar del documento, incluidos resúmenes y referencias. Ponga frases \"entre comillas\". Los comodines* (muchos caracteres) y ? (carácter único) también se pueden utilizar. <a href=\"http://support.pep-web.org/the-new-pep-web/pep-web-2021-help-topics\" target=\"_blank\">Más información...</a> \n<small>\n<br>Ejemplos:\n<ul><li>Búsqueda de palabras: miedo covid</li>\n<li>Búsqueda de frase: \"miedo covid\"</li>\n<li>Comodines: c?vid miedo*</li>\n<li>Proximidad: \"miedo covid\"~10</li>\n</ul> </small>"
+        },
+        "author": {
+          "prompt": "Nombre del autor",
+          "help": "Busque documentos por autor. Introduzca uno o más nombres de autor (funciona mejor solo con apellidos). Utilice comodines como * para hacer coincidir varios caracteres, o ? para hacer coincidir con un solo carácter. <a href=\"http://support.pep-web.org/the-new-pep-web/pep-web-2021-help-topics\" target=\"_blank\">Más información...</a>\n<small>\n<br>Ejemplos:\n<ul><li>Búsqueda de autor: Ammaniti</li>\n<li>Búsqueda de nombre completo: \"Ammaniti, M.\"</li>\n<li>Comodines: Amm?n*</li>\n<li>Múltiple: Ammaniti & Ginzb*</li>\n</ul> \n</small>\n",
+          "wordWheelSearchType": "texto"
+        },
+        "title": {
+          "prompt": "Título del documento",
+          "help": "Busque documentos con palabras o frases dentro del título. Ponga frases \"entre comillas\". Utilice comodines como * para hacer coincidir varios caracteres, o ? para hacer coincidir con un solo carácter.\n <a href=\"http://support.pep-web.org/the-new-pep-web/pep-web-2021-help-topics\" target=\"_blank\">Más información...</a> \n<small>\n<br>Ejemplos:  \n<ul>\n<li>Búsqueda de palabras: fantasías inconscientes</li>\n<li>Búsqueda de frases: \"fantasías inconscientes\"</li>\n<li>Comodines: fantas* inconscientes</li>\n<li>Proximidad: \"fantas* inconscientes\"~10</li>\n</ul> \n</small>"
+        },
+        "dream": {
+          "prompt": "Términos o frase",
+          "help": "Encuentre documentos con palabras o frases dentro de un párrafo en pasajes que describen sueños. Ponga frases \"entre comillas\".\nUtilice comodines como * para hacer coincidir varios caracteres, o ? para hacer coincidir con un solo carácter. <a href=\"http://support.pep-web.org/the-new-pep-web/pep-web-2021-help-topics\" target=\"_blank\">Más información...</a>\n<small>\n<br>Ejemplos:  \n<ul>\n<li>Búsqueda de palabras: mojar la cama</li>\n<li>Búsqueda de frase: \"mojar la cama\"</li>\n<li>Comodines: moj* la cama</li>\n<li>Proximidad: \"moj* la cama\"~10</li>\n</ul> </small>"
+        },
+        "quote": {
+          "prompt": "Términos o frase",
+          "help": "Encuentre documentos con palabras o frases dentro de un párrafo en pasajes citados. Ponga frases \"entre comillas\".<a href=\"http://support.pep-web.org/the-new-pep-web/pep-web-2021-help-topics\" target=\"_blank\">Más información...</a>\n<small>\n<br>Ejemplos:  \n<ul>\n<li>Búsqueda de palabras: trabajar y jugar</li>\n<li>Búsqueda de frases: \"trabajar y jugar\"</li>\n<li>Comodines: \"trabajar y jugar*\"</li>\n<li>Proximidad: \"trabajar y jugar\"~9</li>\n</ul> </small>"
+        },
+        "reference": {
+          "prompt": "Términos o frase",
+          "help": "Encuentre documentos con palabras o frases en la misma referencia de la bibliografía. Ponga frases \"entre comillas\". <a href=\"http://support.pep-web.org/the-new-pep-web/pep-web-2021-help-topics\" target=\"_blank\">Más información...</a> \n<small>\n<br>Ejemplos:  \n<ul>\n<li>Búsqueda de palabras: Gesto Espontáneo</li>\n<li>Búsqueda de frases: \"Gesto Espontáneo\"</li>\n<li>Comodines: \"Gest* Espontan*\"</li>\n<li>Proximidad: \"Gesto Espontáneo\"~9</li>\n</ul> </small>"
+        },
+        "dialog": {
+          "prompt": "Términos o frase",
+          "help": "Busque documentos con palabras o frases dentro de un párrafo en los diálogos entre personas. Ponga frases \"entre comillas\". <a href=\"http://support.pep-web.org/the-new-pep-web/pep-web-2021-help-topics\" target=\"_blank\">Más información...</a> \n<small>\n<br>Ejemplos:  \n<ul>\n<li>Búsqueda de palabras: ansiedad objetiva</li>\n<li>Búsqueda de frases: \"ansiedad objetiva\"</li>\n<li>Comodines: \"ans* object*\"</li>\n<li>Proximidad: <a href='https://stage.pep-web.rocks/search?searchTerms=%5B%7B%22type%22%3A%22dialog%22%2C%22term%22%3A%22%5C%22objective%20anxiety%5C%22~4%22%7D%5D'>\"ansiedad objetiva\"~3</a></li>\n</ul> </small>"
+        },
+        "article": {
+          "prompt": "Términos o frase",
+          "help": "Encuentre documentos con palabras o frases dentro de un párrafo en cualquier parte del documento EXCEPTO en resúmenes, compendios y referencias. Ponga frases entre comillas. <a href=\"http://support.pep-web.org/the-new-pep-web/pep-web-2021-help-topics\" target=\"_blank\">Más información</a> \n<small>\n<br>Ejemplos:  \n<ul>\n<li>Búsqueda de palabras: modelos contemporáneos de psicoanálisis</li>\n<li>Búsqueda de frases: \"modelos contemporáneos de psicoanálisis\"</li>\n<li>Comodines: \"modelos contemporáneos de psico*\"</li>\n<li>Proximidad: \"modelos contemporáneos de psicoanálisis\"~5</li>\n</ul> </small>"
+        },
+        "startYear": {
+          "prompt": "Año de publicación",
+          "help": "Encuentre documentos publicados en, antes/después de un año o dentro de un intervalo de años. <a href=\"http://support.pep-web.org/the-new-pep-web/pep-web-2021-help-topics\" target=\"_blank\">Más información...</a>\n<small>\n<br>Ejemplos:  \n<ul>\n<li>Un año: 1999</li>\n<li>Antes de: <1999/li\n<li>Después de: >1999</li>\n<li>Intervalo: 1999-2010</li>\n</ul> \n</small>\n"
+        },
+        "endYear": {
+          "prompt": "Año de publicación",
+          "help": "Busque documentos publicados en, antes, después de un año o dentro de un rango de años (por ejemplo, \"1999\", \"<1999\", \">1999\", \"1999-2010\")"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1121 @@
+{
+    "brand": {
+        "name": "PEP",
+        "nameFull": {
+            "psychoanalytic": "Psychoanalytic",
+            "electronic": "Electronic",
+            "publishing": "Publishing"
+        },
+        "copyWrite": "Copyright &copy; {year}, Psychoanalytic Electronic Publishing, ISSN 2472-6982",
+        "slogan": "Eine psychoanalytische Bibliothek auf einen Klick"
+    },
+    "common": {
+        "save": "Speichern",
+        "submit": "Absenden",
+        "search": "Suche",
+        "cancel": "Abbrechen",
+        "close": "Schließen",
+        "remove": "Entfernen",
+        "goBack": "Zurück",
+        "done": "Fertig",
+        "export": "Export",
+        "print": "Drucken",
+        "numResults": "{count} {count, plural, =1 {'<span class=\"text-muted \">'Ergebnis'</span>'} other {'<span class=\"text-muted\">'Ergebnisse'</span>'}}",
+        "noResults": "Keine Ergebnisse gefunden",
+        "loadingResults": "Ergebnisse laden ...",
+        "loading": "Lädt ...",
+        "filter": "Filter",
+        "viewAll": "Alle anzeigen",
+        "help": "Hilfe",
+        "find": "Suchen",
+        "more": "Mehr",
+        "saving": "Speichern ...",
+        "yes": "Ja",
+        "no": "Nein",
+        "update": "Aktualisieren",
+        "asterixFieldsRequired": "Die mit einem Sternchen (*) gekennzeichneten Felder sind Pflichtfelder"
+    },
+    "serverErrors": {
+        "heading": "Beim Versuche, Ihre Anfrage zu verarbeiten, ist/sind folgende(r) {count, plural, =1 {error} other {errors}} aufgetreten.",
+        "undefined": "Es tut uns leid, es ist ein unerwarteter Fehler aufgetreten.",
+        "unknown": {
+            "unexpected": "Es tut uns leid, es ist ein unerwarteter Fehler aufgetreten."
+        }
+    },
+    "nav": {
+        "toggle": "Navigation umschalten",
+        "home": "Home",
+        "search": "Suche",
+        "browse": "Durchsuchen",
+        "read": "Lesen",
+        "help": "Hilfe",
+        "user": {
+            "about": "Über uns",
+            "account": "Mein Konto",
+            "preferences": "Einstellungen",
+            "login": "Anmeldung",
+            "logout": "Ausloggen",
+            "accountInfo": "Kontodaten",
+            "loggedInViaIP": "Angemeldet über IP-Adresse",
+            "aboutPepWeb": "Über PEP-Web"
+        },
+        "support": {
+            "link": "Support",
+            "reportDataError": "Datenfehler melden",
+            "preferences": "Hilfe Einstellungen",
+            "provideFeedback": "Feedback geben",
+            "browserData": "Browserdaten",
+            "showIntroTour": "Feature-Tour",
+            "searchHelpVideo": "Suchhilfe-Video"
+        },
+        "admin": {
+            "general": "Allgemeine Einstellungen",
+            "content": "Inhaltseinstellungen"
+        }
+    },
+    "home": {
+        "title": "Psychoanalytic Electronic Publishing",
+        "heading": "PEP – Psychoanalytic Electronic Publishing",
+        "searchForDocs": "Nach Dokumenten suchen",
+        "expertPick": {
+            "heading": "Expertenempfehlung des Tages",
+            "read": "Lesen",
+            "loginAndRead": "Anmelden und lesen",
+            "graphicFromTheArticle": "Abbildung aus dem Artikel: {title}"
+        }
+    },
+    "search": {
+        "title": "Suche",
+        "new": "Eine neue Suche beginnen",
+        "description": "- {description}",
+        "exports": {
+            "csv": "Durch Komma getrennte Werte (CSV)",
+            "ris": "Getaggtes Standardformat (RIS)",
+            "clipboard": "Zwischenablage",
+            "title": "Export"
+        },
+        "table": {
+            "author": "Verfasser",
+            "year": "Jahr",
+            "title": "Titel",
+            "source": "Quelle",
+            "kwicList": {
+                "empty": "Keine Treffer in Kontextelementen gefunden"
+            }
+        },
+        "hitsInContext": {
+            "label": {
+                "short": "Treffer",
+                "full": "Treffer im Kontext"
+            }
+        },
+        "sort": {
+            "label": "Sortieren:",
+            "year": "Jahr"
+        },
+        "item": {
+            "relatedDocuments": "Dieses Dokument enthält zugehörige Dokumente",
+            "addToFavorites": "Zu Favoriten hinzufügen",
+            "removeFromFavorites": "Aus Favoriten entfernen",
+            "addToReadLater": "Zu „Später lesen“ hinzufügen",
+            "removeFromReadLater": "Aus „Später lesen“ entfernen",
+            "notifications": {
+                "success": {
+                    "addToFavorites": "Dokument zu Favoriten hinzugefügt",
+                    "removeFromFavorites": "Dokument aus Favoriten entfernt",
+                    "addToReadLater": "Dokument zur Liste „Später lesen“ hinzugefügt",
+                    "removeFromReadLater": "Dokument aus Liste „Später lesen“ entfernt"
+                },
+                "failure": {
+                    "favorites": "Beim Aktualisieren Ihrer Favoriten ist ein Fehler aufgetreten",
+                    "readLater": "Beim Aktualisieren Ihrer Liste „Später lesen“ ist ein Fehler aufgetreten"
+                }
+            }
+        },
+        "view": {
+            "label": "Anzeigen:",
+            "biblio": "Bibliographisch"
+        },
+        "empty": {
+            "heading": "Ihre Suche beginnt hier",
+            "instructions": "Verwenden Sie das Formular links, um Begriffe oder Ausdrücke einzugeben und unsere Publikationsdatenbank zu durchsuchen.",
+            "tips": {
+                "heading": "Suchtipps",
+                "instructions": "Die „Intelligente Suche“ verwendet alle Arten von Sucheingaben:",
+                "tip1": "Suchen Sie nach Begriffen oder Stichwörtern. '<strong>'Geben Sie mindestens zwei Begriffe gleichzeitig ein,'</strong>' um die besten Suchergebnisse zu erhalten.'<br>' Dadurch wird die Suche präziser und es werden nur die relevantesten Ergebnisse ausgegeben.",
+                "tip2": "Eine Quellenangabe aus einem Artikel einfügen",
+                "tip3": "Einen Journalnamen oder einen Teil eines Journalnamens verwenden",
+                "tip4": "Suche nach Autorennamen (oder mehreren Autoren)",
+                "tip5": "Ein Titel oder ein Teil eines Titels (fünf oder mehr Wörter)",
+                "tip6": "Suche nach Jahr/Band/Seitenzahl"
+            }
+        },
+        "results": {
+            "none": "Es wurden keine Ergebnisse gefunden. Versuchen Sie, verschiedene Suchbegriffe oder Schlagwörter zu verwenden, um zu finden, wonach Sie suchen.",
+            "sidebar": {
+                "title": "{title} ({year})"
+            }
+        },
+        "form": {
+            "heading": "Suche nach Dokumenten",
+            "smartSearch": {
+                "heading": "Intelligente Suche",
+                "label": "Wonach suchen Sie?"
+            },
+            "savedSearch": {
+                "label": "Gespeicherte Suchen",
+                "mine": "Meine gespeicherten Suchen",
+                "save": "Diese Suche speichern"
+            },
+            "terms": {
+                "heading": "Begriffe oder Sätze suchen",
+                "label": "Begriffe oder Satzteil",
+                "remove": "Begriff entfernen",
+                "add": "Begriff hinzufügen",
+                "synonyms": {
+                    "title": "Übereinstimmende Synonyme"
+                },
+                "termSelectName": "{type}-Auswahl"
+            },
+            "additional": {
+                "limitTo": {
+                    "title": "Begrenzen auf ..."
+                },
+                "cited": {
+                    "times": "Zitate in den letzten 5 Jahren"
+                },
+                "viewed": {
+                    "times": "Ansichten in den letzten"
+                }
+            },
+            "tooManyResults": {
+                "heading": "Versuchen Sie Ihre Suche einzugrenzen",
+                "numResults": "Es gibt Ihren Kriterien entsprechend '<strong>'{count}'</strong>'  {count, plural, =1 {result} other {results}}."
+            }
+        },
+        "refine": {
+            "heading": "Eingrenzen",
+            "instructions": "Diese Option aktivieren, um die Ergebnisse auf genau übereinstimmende Artikel zu beschränken.",
+            "showLess": "Weniger anzeigen",
+            "showAll": "Mehr anzeigen",
+            "none": "Keine Eingrenzungsmöglichkeiten verfügbar",
+            "apply": {
+                "label": "Suche eingrenzen"
+            },
+            "option": {
+                "numResults": "({count})"
+            }
+        },
+        "preview": {
+            "maximize": "Maximieren",
+            "minimize": "Minimieren",
+            "fit": {
+                "on": "Automatische Größenanpassung aktivieren",
+                "off": "Automatische Größenanpassung deaktivieren"
+            },
+            "read": "Lesen",
+            "mustBeLoggedIn": "Sie müssen angemeldet sein, um dieses Dokument lesen oder herunterladen zu können.",
+            "accessLimited": "Der vollständige Inhalt dieses Dokuments ist nicht verfügbar. Das kann an Ihren aktuellen Abonnement- oder Herausgeber-Einschränkungen liegen.",
+            "login": "Zur Anmeldung hier klicken",
+            "download": {
+                "label": "Herunterladen",
+                "ePub": "ePub-Dokument",
+                "pdf": "PDF-Dokument",
+                "pdfOrig": "(Original-)PDF-Dokument"
+            }
+        },
+        "terms": {
+            "everywhere": {
+                "label": "Überall"
+            },
+            "author": {
+                "label": "Verfasser"
+            },
+            "title": {
+                "label": "Titel"
+            },
+            "dream": {
+                "label": "Träume"
+            },
+            "quote": {
+                "label": "Zitate"
+            },
+            "reference": {
+                "label": "Quellenangaben"
+            },
+            "dialog": {
+                "label": "Dialoge"
+            },
+            "article": {
+                "label": "Artikel"
+            },
+            "startYear": {
+                "label": "Jahr"
+            },
+            "endYear": {
+                "label": "Endjahr"
+            },
+            "bibliography": {
+                "label": "Bibliographien"
+            },
+            "cited": {
+                "label": "So oft zitiert",
+                "shortLabel": "# zitiert"
+            },
+            "viewed": {
+                "label": "So oft angesehen",
+                "shortLabel": "# angesehen"
+            }
+        },
+        "facets": {
+            "art_sourcetype": {
+                "label": "Art der Quelle",
+                "values": {
+                    "book": "Buch",
+                    "journal": "Fachzeitschrift",
+                    "videostream": "Video",
+                    "special": "Sonderformat"
+                }
+            },
+            "art_type": {
+                "label": "Art des Artikels",
+                "values": {
+                    "ABS": "Zusammenfassung",
+                    "ANN": "Ankündigung",
+                    "ART": "Artikel",
+                    "COM": "Kommentar",
+                    "ERA": "Errata",
+                    "PRO": "Profil",
+                    "REP": "Report",
+                    "REV": "Review",
+                    "SUP": "SUP",
+                    "TOC": "TOC",
+                    "VID": "Video"
+                }
+            },
+            "art_lang": {
+                "label": "Sprache",
+                "values": {
+                    "cs": "Tschechisch",
+                    "de": "Deutsch",
+                    "el": "Griechisch",
+                    "en": "Englisch",
+                    "es": "Spanisch",
+                    "fr": "Französisch",
+                    "he": "Hebräisch",
+                    "it": "Italienisch",
+                    "ko": "Koreanisch",
+                    "nl": "Niederländisch",
+                    "tr": "Türkisch",
+                    "zh": "Chinesisch"
+                }
+            },
+            "art_kwds_str": {
+                "label": "Stichworte"
+            },
+            "art_sourcetitleabbr": {
+                "label": "Quelle"
+            },
+            "glossary_terms": {
+                "label": "Begriffsverzeichnis"
+            },
+            "glossary_group_terms": {
+                "label": "Wortgruppen"
+            },
+            "art_year_int": {
+                "label": "Dekade",
+                "option": "{year}'e"
+            },
+            "art_cited_5": {
+                "label": "Anzahl der Zitate",
+                "option": "{range} Zitate"
+            },
+            "art_views_last12mos": {
+                "label": "Ansichten-Anzahl",
+                "option": "{range} Ansichten"
+            },
+            "art_authors": {
+                "label": "Verfasser"
+            }
+        },
+        "viewPeriod": {
+            "week": "Woche",
+            "month": "Monat",
+            "6months": "6 Monate",
+            "12months": "12 Monate",
+            "calYear": "Kalenderjahr"
+        }
+    },
+    "browse": {
+        "title": "Durchsuchen",
+        "selection": {
+            "journals": "Fachzeitschriften",
+            "books": {
+                "title": "Bücher",
+                "freud": "Freuds gesammelte Werke",
+                "glossaries": "Glossare und Wörterbücher",
+                "other": "Andere klassische Bücher"
+            },
+            "videos": "Videos",
+
+            "search": {
+                "noResults": "Keine Suchergebnisse für „{term}“"
+            }
+        },
+        "alt": "Zeitschriftenbanner",
+        "availableVolumes": "Verfügbare Bände",
+        "journal": {
+            "title": "{name}",
+            "volume": {
+                "title": "Band  {number} ({year})"
+            }
+        },
+        "gw": {
+            "volumes": "Freud, S. (1991). GESAMMELTE WERKE: CHRONOLOGISCH GEORDNET. Imago Publishing Co., Ltd., London."
+        },
+        "se": {
+            "volumes": "Strachey, J. (Hrsg.) Die Standardausgabe der vollständigen psychologischen Werke von Sigmund Freud"
+        }
+    },
+    "read": {
+        "title": "Lesen – {title}",
+        "document": {
+            "page": "Seite",
+            "findMore": "Möchten Sie nach weiteren Artikeln und Quellen suchen?",
+            "newSearch": "Eine neue Suche beginnen",
+            "backToSearch": "Zurück zur Suche",
+            "loginToRead": "Sie müssen angemeldet sein, um das vollständige Dokument lesen zu können.",
+            "login": "Zur Anmeldung hier klicken",
+            "image": {
+                "alt": "Artikelbild {id}"
+            },
+            "searchHits": " {current} von {total}"
+        }
+    },
+    "relatedInfo": {
+        "title": "Zugehörige Informationen",
+        "batchClose": "Alle schließen",
+        "batchOpen": "Alle anzeigen",
+        "widgets": {
+            "expertPicks": {
+                "title": "Expertenempfehlungen",
+                "help": "Expertenempfehlungen ... fachkundig für Sie ausgewählt."
+            },
+            "favorites": {
+                "title": "Favoriten",
+                "noResults": {
+                    "loggedIn": "Sie haben noch keine Favoriten. Fügen Sie Dokumente, die Sie häufig anzeigen, zu Ihren Favoriten hinzu, um schnell darauf zugreifen zu können.",
+                    "loggedOut": "Sie müssen angemeldet sein, um die Favoritenliste zu speichern"
+                },
+                "help": "Hier können Sie Ihre Lieblingsdokumente für den einfachen Zugriff speichern."
+            },
+            "glossaryTerms": {
+                "title": "Glossarbegriffe",
+                "view": "Komplettes Glossar anzeigen",
+                "noResults": "Sie müssen eine Suche durchführen oder ein Dokument anzeigen, um die Glossarbegriffe anzuzeigen",
+                "help": "Beim Lesen eines Dokuments wird hier eine Wortwolke mit Glossarbegriffen angezeigt."
+            },
+            "moreLikeThese": {
+                "title": "Mehr wie diese",
+                "confidence": "Ähnlichkeitsgrad: {number} %",
+                "noResults": "Sie müssen ein Dokument anzeigen, um ähnliche Dokumente anzuzeigen",
+                "help": "Mit KI empfehlen wir Dokumente, von denen wir glauben, dass sie dem aktuellen Dokument, das Sie lesen, ähnlich sind."
+            },
+            "mostCited": {
+                "title": "Am häufigsten zitiert",
+                "help": "Die am häufigsten zitierten Dokumente in unserem System können hier eingesehen werden."
+            },
+            "mostViewed": {
+                "title": "Am häufigsten angesehen",
+                "help": "Die am häufigsten angesehenen Dokumente in unserem System können hier eingesehen werden."
+            },
+            "pastSearches": {
+                "title": "Ihre vergangenen Suchen",
+                "help": "Ihre früheren Suchanfragen, die Sie vorgenommen haben, werden hier gespeichert, um einen einfachen Zugriff zu ermöglichen."
+            },
+            "publisherInfo": {
+                "title": "Herausgeber-Info",
+                "view": "Informationen anzeigen für {publisher}",
+                "noResults": "Sie müssen ein Dokument anzeigen, um die Herausgeberinformationen des Dokuments anzuzeigen.",
+                "help": "Informationen zum Herausgeber für das aktuelle Dokument, das Sie anzeigen, werden hier angezeigt."
+            },
+            "readLater": {
+                "title": "Später lesen",
+                "noResults": {
+                    "loggedIn": "Sie haben keine Dokumente für später gespeichert. Fügen Sie Dokumente hinzu, die Sie für den schnellen Zugriff anzeigen möchten.",
+                    "loggedOut": "Sie müssen angemeldet sein, um die Liste „Später lesen“ zu speichern"
+                },
+                "help": "Speichern Sie Elemente, die Sie später lesen möchten, und zeigen Sie sie hier an."
+            },
+            "relatedDocuments": {
+                "title": "Zugehörige Dokumente",
+                "noResults": "Diese Infokarte zeigt Artikel, die in direktem Zusammenhang mit dem Artikel stehen, den Sie gerade lesen. Verfolgen Sie beispielsweise Kommentare oder Antworten nach. Oder andere Teile in einer Reihe von zusammengehörigen Themen. Wenn es keine gibt, wird diese Meldung angezeigt.",
+                "help": "Bei Dokumenten mit verwandten Artikeln wird das {faIcon}-Symbol neben der Auflistung angezeigt, um anzuzeigen, dass der Artikel Teil einer Reihe ist oder einen nachfolgenden Kommentar im Journal besitzt."
+            },
+            "relevantSearches": {
+                "title": "Relevante Suchanfragen",
+                "help": "Verwandte Suchanfragen zum aktuellen Dokument/zur aktuellen Suche finden Sie hier."
+            },
+            "seminalPapers": {
+                "title": "Bahnbrechende Paper",
+                "help": "Bahnbrechende Paper können hier aufgerufen werden."
+            },
+            "topicalVideoPreview": {
+                "title": "Thematisches Video",
+                "help": "Sehen Sie sich hier das neueste thematische Video in unserem System an."
+            },
+            "whatsNew": {
+                "title": "Was ist neu?",
+                "issue": "Ausgabe Nr.{issueNum}, Band {volNum} • {updatedDate}",
+                "signUp": "Sie können sich jetzt registrieren, um benachrichtigt zu werden, wenn neue Inhalte hinzugefügt werden, indem Sie unten Ihre E-Mail-Adresse eingeben. Wenn neue Inhalte hinzugefügt werden, senden wir Ihnen automatisch eine E-Mail mit einer Liste der hinzugefügten Inhalte und Links dazu auf PEP-Web!",
+                "emailAddress": "E-Mail-Adresse",
+                "update": "Update-Benachrichtigungen",
+                "help": "Die neuesten Ergänzungen zu unserem System können hier eingesehen werden.",
+                "alerts": {
+                    "journals": "PEP-Web-Fachzeitschriften",
+                    "videos": "PEP-Web-Videos"
+                }
+            },
+            "yourInterests": {
+                "title": "Ihre Interessen",
+                "help": "Ihre Interessen können hier angezeigt werden."
+            },
+            "videoPreview": {
+                "title": "Neuestes Video",
+                "help": "Sehen Sie sich hier das neueste Video in unserem System an."
+            },
+            "signIn": {
+                "title": "Anmelden"
+            }
+        }
+    },
+    "mostCited": {
+        "pageTitle": "Meist zitierte Zeitschriftenartikel",
+        "period": "Zeitraum",
+        "periodSelect": "Einen Zeitraum auswählen",
+        "fiveYears": "5 Jahre",
+        "tenYears": "10 Jahre",
+        "twentyYears": "20 Jahre",
+        "allYears": "Alle Jahre",
+        "author": "Verfasser",
+        "journal": "Fachzeitschrift",
+        "title": "Titel",
+        "table": {
+            "title": "Titel",
+            "citations": "Zitate in Publikationen",
+            "fiveYears": "Zitate der letzten 5 Jahre",
+            "tenYears": "Zitate der letzten 10 Jahre",
+            "twentyYears": "Zitate der letzten 20 Jahre",
+            "allTime": "Zitate gesamt"
+        }
+    },
+    "mostViewed": {
+        "pageTitle": "Am häufigste angesehene Zeitschriftenartikel",
+        "period": "Zeitraum",
+        "table": {
+            "publication": "Publikation",
+            "popularity": "Popularität nach Anfragen",
+            "week": "Anf. letzte Woche",
+            "month": "Anf. letzten Monat",
+            "sixMonths": "Anf. letzte 6 Monate",
+            "twelveMonths": "Anf. letzte 12 Monate",
+            "calendarYear": "Anf. letztes Kalenderjahr"
+        }
+    },
+    "publisherInfo": {
+        "title": "Informationen zum Herausgeber",
+        "description": "Das PEP-Archiv enthält den Volltextinhalt aller oben genannten Bände. Aufgrund von Verträgen mit den Herausgebern gibt es für die meisten Fachzeitschriften eine dreijährige bewegliche Blockade (Embargo für aktuelle Artikel). Sie können die Inhaltsverzeichnisse in der aktuellen Ausgabe durchsuchen. Die Suche umfasst den vollständigen Text der Artikel. Für Artikel ab {year} und neuer werden jedoch nur die Titel und Abstracts (oder Zusammenfassungen) angezeigt. Einzelheiten zum Lesen des vollständigen Textes aus {year} und zu aktuelleren Artikeln finden Sie <a target='_blank' href={url}>hier</a> auf der offiziellen Website des Herausgebers."
+    },
+    "glossary": {
+        "title": "Glossar",
+        "searchForTerm": "Nach diesem Begriff suchen"
+    },
+    "figure": {
+        "title": "Abbildung {id}"
+    },
+    "login": {
+        "title": "Anmeldung",
+        "info": "Dies ist die Volltextdatenbank des Psychoanalytic Electronic Publishing Archivs. Sie ist für jedermann frei verfügbar, um zu suchen und um Inhaltsverzeichnisse sowie Zusammenfassungen anzuzeigen. Sie benötigen jedoch ein Abonnement, um den vollständigen Text von Artikeln und Büchern anzuzeigen und Links in der Datenbank zu folgen.",
+        "error": "Anmeldung mit den angegebenen Anmeldeinformationen nicht möglich.",
+        "username": "Benutzername",
+        "password": "Passwort",
+        "notAMember": "Noch nicht registriert?",
+        "clickToSubscribe": "Zum abonnieren hier klicken",
+        "success": "Sie sind jetzt angemeldet.",
+        "forgotPassword": "Passwort vergessen?",
+        "genericError": "Anmeldung nicht möglich. Hinter den Kulissen gibt es ein Problem, und wir sind dabei es zu untersuchen. Bitte versuchen Sie es später noch einmal.",
+        "federatedLogin": "Partner-/OpenAthens-Login",
+        "notARegisteredUser": "Kein registrierter Benutzer?",
+        "clickToRegister": "Für Registrierung hier klicken",
+        "groupInformation": "Sie haben vollständigen Archivzugriff auf PEP erhalten, da Ihre Institution über ein gültiges Abonnement verfügt, das auf einer sogenannten {method}-Anmeldung basiert. Um jedoch das Erscheinungsbild der Website ändern, Papers, Suchanfragen sowie Favoriten und viele andere Dinge speichern zu können, müssen Sie sich registrieren (was kostenlos ist). Sie tun dies einmal und greifen dann mit dem von Ihnen erstellten persönlichen Login direkt auf diese Seite zu. (Sie müssen sich alle 90 Tage zur erneuten Validierung über Ihre Universität/Ihr Institut anmelden). Wenn Sie bereits über eine Anmeldung im PaDS-System verfügen, verwenden Sie diese.  Klicken Sie '<a href=\"http://support.pep-web.org/login-help\" target=\"_blank\">'hier'</a>', um weitere Informationen zu erhalten.",
+        "component": {
+            "ip": "IP-Adresse",
+            "federated": "Partner",
+            "referral": "Empfehlung"
+        }
+    },
+    "federatedLogin": {
+        "title": "Partner-/OpenAthens-Login",
+        "info": "Psychoanalytic Electronic Publishing unterstützt Anmeldungen der folgenden Verbände und Institutionen. Klicken Sie bitte auf den Link, wenn Sie sich über einen dieser Dienste anmelden, um Zugriff auf Ihr Abonnement zu erhalten",
+        "forgotPassword": "Passwort vergessen?",
+        "genericError": "Anmeldung nicht möglich. Hinter den Kulissen gibt es ein Problem, und wir sind dabei es zu untersuchen. Bitte versuchen Sie es später noch einmal.",
+        "federatedLogin": "Partner-Login",
+        "openAthens": "OpenAthens"
+    },
+    "help": {
+        "preferences": {
+            "info": "Passen Sie die Hilfe, die Ihnen über das nachfolgende PEP-Systems bereit gestellt wird, individuell an.",
+            "tour": {
+                "title": "Intro-Tour",
+                "description": "Wenn Sie diese Option aktivieren, wird die Tour beim nächsten Besuch von PEP angezeigt."
+            },
+            "descriptions": {
+                "title": "Hilfebeschreibungen",
+                "description": "Wenn Sie diese Option aktivieren, werden gegebenenfalls hilfreiche Beschreibungen angezeigt."
+            },
+            "general": {
+                "heading": "Allgemein",
+                "tour": {
+                    "title": "Intro-Tour",
+                    "description": "Wenn Sie diese Option aktivieren, wird die Tour beim nächsten Besuch von PEP angezeigt."
+                },
+                "descriptions": {
+                    "title": "Hilfebeschreibungen",
+                    "description": "Wenn Sie diese Option aktivieren, werden gegebenenfalls hilfreiche Beschreibungen angezeigt."
+                },
+                "icons": {
+                    "title": "Hilfesymbole",
+                    "description": "Wenn Sie diese Option aktivieren, werden die Hilfesymbole auf der gesamten Website ein-/ausgeblendet. Diese Symbole enthalten hilfreiche Hinweise und Beschreibungen der Funktionen, die Ihnen das Leben erleichtern."
+                }
+            },
+            "translations": {
+                "heading": "Übersetzung",
+                "translate": {
+                    "title": "Übereinstimmung der Übersetzung",
+                    "description": "Übersetzen Sie zwischen SE und GW"
+                }
+            }
+        }
+    },
+    "preferences": {
+        "title": "Einstellungen",
+        "info": "Passen Sie Ihre Erfahrung mit PEP mit den folgenden Einstellungen an und personalisieren Sie sie.",
+        "changesNotSaved": "Die Einstellungen werden erst gespeichert, wenn Sie sich anmelden.",
+        "general": {
+            "heading": "Allgemeine Einstellungen",
+            "theme": {
+                "label": "Farbthema",
+                "select": "Wählen Sie eine Vorlage"
+            },
+            "lang": {
+                "label": "Sprache",
+                "select": "Wählen Sie Ihre Sprache"
+            },
+            "fontSize": {
+                "label": "Schriftgröße",
+                "select": "Wählen Sie Ihre bevorzugte Schriftgröße"
+            },
+            "glossaryFormatting": {
+                "label": "Formatierung des Glossarbegriffs"
+            },
+            "textAlignment": {
+                "label": "Textausrichtung des Dokuments",
+                "select": "Wählen Sie Ihre bevorzugte Ausrichtung"
+            }
+        },
+        "search": {
+            "heading": "Suche",
+            "hic": {
+                "limit": "Treffer im Kontext begrenzen"
+            },
+            "preview": {
+                "label": "Ergebnisauswahl bei der Suche",
+                "labelName": "Ergebnisauswahl-bei-der-Suche",
+                "select": "Wählen Sie Ihr gewünschtes Verhalten",
+                "enabled": "Ein Vorschaufenster anzeigen",
+                "disabled": "Das vollständige Dokument öffnen"
+            },
+            "userSearchFormSticky": {
+                "label": "Anhaftendes Suchformular"
+            }
+        },
+        "sidebar": {
+            "heading": "Seitenleiste",
+            "widgets": {
+                "label": "Widgets ein-/ausblenden"
+            }
+        }
+    },
+    "user": {
+        "login": {
+            "individualLogin": "Individuelle Anmeldung",
+            "ip": "IP-Adresse",
+            "referrer": "Referrer-URL",
+            "federated": "Partner-Login",
+            "ipIndividual": "IP-Adresse (individuell)",
+            "referrerIndividual": "Referrer-URL (individuell)",
+            "federatedIndividual": "Partner-Login (Einzelperson)",
+            "loginMethod": "Abonnements festgelegt über {method}",
+            "individual": "Individuell",
+            "logoutType": "{method}",
+            "network": "Netzwerk"
+        }
+    },
+    "text": {
+        "sizes": {
+            "xs": "Extraklein",
+            "sm": "Klein",
+            "default": "Standard",
+            "lg": "Groß",
+            "xlarge": "Extragroß"
+        },
+        "justification": {
+            "left": "Links",
+            "justify": "bündig"
+        }
+    },
+    "print": {
+        "author": "Verfasser",
+        "year": "Jahr",
+        "title": "Titel",
+        "source": "Quelle"
+    },
+    "about": {
+        "title": "Über uns",
+        "version": {
+            "title": "Version",
+            "client": "Client: {versionNumber}",
+            "server": "Server: {versionNumber}",
+            "data": "Datenquelle: {versionNumber}",
+            "sessionId": "Sitzung: {id}"
+        },
+        "status": {
+            "title": "Status",
+            "ok": "Alle Systeme betriebsbereit.",
+            "down": "Die Datenbankwartung wird ausgeführt"
+        },
+        "web": {
+            "title": "PEP Web",
+            "description": " Diese neue PEP-Web-Benutzeroberfläche wurde entwickelt, um das Durchsuchen des PEP-Archivs unter Berücksichtigung maximaler Zugänglichkeit effizienter und effektiver zu gestalten und die neueste Technologie zur Personalisierung Ihrer Benutzererfahrung zu nutzen. Dies ist nur die erste Phase einer laufenden Überarbeitung des PEP-Web-Systems. In naher Zukunft werden wir fortschrittliche KI-Techniken einsetzen, um Informationen im Archiv zu finden und Ihre Forschung auf ein neues Niveau zu heben."
+        },
+        "archive": {
+            "title": "PEP-Archiv",
+            "description": "PEP Web wurde entwickelt, um eine leistungsstarke, schnelle Suche in der gesamten psychoanalytischen Literatur in Englisch, Französisch, Deutsch, Griechisch, Italienisch, Rumänisch, Spanisch und Türkisch zu ermöglichen. Es ist das Ergebnis einer innovativen, qualitativ hochwertigen Reihe technischer Entwicklungen und einer beträchtlichen finanziellen und wissenschaftlichen Investition. Sie können über '<a href=\"http://support.pep-web.org/about-the-pep-archive/digitization-and-quality-control/\" target=\"_blank\">' die innovativen Entwicklungen, die erforderlich sind, um das PEP-Archiv zu erstellen und ständig zu aktualisieren'</a>' und über<a href=\"http://support.pep-web.org/about-pep/history-of-pep/\" target=\"_blank\">die Geschichte des PEP-Archivs'</a>' nachlesen. Sie können sogar '<a href=\"http://support.pep-web.org/about-the-pep-archive/suggest-new-content/\" target=\"_blank\">' neue Inhalte vorschlagen'</a>', die dem PEP-Archiv hinzugefügt werden sollen.'<br><br>' Weitere Informationen finden Sie auf den '<a href=\"http://support.pep-web.org\" target=\"_blank\">'PEP-Web-Support-Seiten'</a>'."
+        }
+    },
+    "tour": {
+        "home": {
+            "buttons": {
+                "next": "Weiter"
+            }
+        },
+        "leftSidebar": {
+            "buttons": {
+                "next": "Weiter"
+            }
+        },
+        "rightSidebar": {
+            "buttons": {
+                "cancel": "Schließen"
+            }
+        }
+    },
+    "accountInfo": {
+        "title": "Kontodaten",
+        "makeChangesOnPads": "Änderungen vornehmen (auf PaDS)",
+        "registeredUser": {
+            "title": "Registrierter Benutzer",
+            "name": "Name: {name}",
+            "email": "E-Mail: {email}",
+            "username": "Benutzername: {username}",
+            "loggedInViaIP": "Angemeldet über IP-Adresse"
+        },
+        "activeSubscriptions": {
+            "title": "Aktive Abonnements",
+            "subscription": "{product} von {start, date, short} bis {end, date, short}"
+        }
+    },
+    "reportDataError": {
+        "title": "Datenfehler melden",
+        "instructions1": "Verwenden Sie dieses Formular nur, um Datenfehler zu melden. Dies umfasst Tippfehler, falsch geschriebene Wörter oder Autorennamen usw.",
+        "instructions2": "Greifen Sie bei weiteren nicht datenbezogene Problemen bitte auf die folgende Liste allgemeiner Hilferessourcen zurück:",
+        "reportSuccessful": "Ihr Bericht wurde erfolgreich übermittelt!",
+        "form": {
+            "title": "Fehlerbericht",
+            "username": "Benutzername",
+            "fullName": "Vollständiger Name *",
+            "email": "E-Mail-Adresse *",
+            "problemText": "Bitte schildern Sie das Problem/den Problemtext",
+            "correctedText": "Bitte schildern Sie die Korrekturen *",
+            "correctedTextHelp": "Sie können zudem das Problem und die Korrekturen schildern.",
+            "urlOfProblem": "URL des Problems *",
+            "errorVerification": "Bitte stellen Sie sicher, dass es sich entweder nur um PEP-Web oder um ein offensichtliches typografisches Problem im Original handelt.",
+            "explanation": "Erläuterung",
+            "explanationHelp": "Bitte erläutern Sie, warum dies Ihrer Meinung nach eher ein Fehler im PEP-Web als im Original ist.",
+            "authorOrPublisher": "Sind Sie der Autor oder Herausgeber?",
+            "authorOrPublisherHelp": "Bei nicht typografischen Problemen im Original können Änderungen durch den Herausgeber vorgenommen werden.",
+            "originalCopy": "Haben Sie eine Kopie des Originalpapers?",
+            "authorOrPublisherName": "Autor oder Herausgeber",
+            "originalCopyName": "Kopie des Originalpapers"
+        },
+        "supportResource": {
+            "customerService": "Zugriffsprobleme oder allgemeiner Support",
+            "authorIndex": "Korrektur des Autorenverzeichnisses",
+            "newContent": "Neuer Inhaltsvorschlag"
+        }
+    },
+    "feedback": {
+        "title": "Feedback senden",
+        "instructions": "Vielen Dank für Ihr Feedback! Bitte beschreiben Sie alle Probleme so detailliert wie möglich.",
+        "feedbackSuccessful": "Ihr Feedback wurde gesendet. Vielen Dank!",
+        "form": {
+            "subject": "Betreff *",
+            "description": "Beschreibung *",
+            "url": "URL *",
+            "selectFeedbackType": "Wählen Sie einen Feedback-Typ",
+            "type": "Typ",
+            "fullName": "Vollständiger Name *",
+            "email": "E-Mail-Adresse *"
+        },
+        "feedbackTypes": {
+            "feedback": "Feedback",
+            "issue": "Problem"
+        }
+    },
+    "exports": {
+        "clipboard": {
+            "success": "In die Zwischenablage kopiert",
+            "failure": "Beim Kopieren in die Zwischenablage ist ein Problem aufgetreten. Bitte versuchen Sie es später noch einmal."
+        }
+    },
+    "document": {
+        "text": {
+            "help": {
+                "title": "Klicken Sie auf den Titel, um den Artikel im Inhaltsverzeichnis der Quelle anzuzeigen.",
+                "author": "Klicken Sie auf den Namen des Autors, um andere Artikel dieses Autors anzuzeigen",
+                "journalBanner": "Klicken Sie auf das Zeitschriftenbanner, um andere Bände für diese Quelle anzuzeigen"
+            },
+            "relatedBibliography": "<p>Zu dieser spezifischen Quellenangabe wurde keine Übereinstimmung mit Artikeln auf PEP gefunden. Mithilfe künstlicher Intelligenz hat unsere Software jedoch eine  Quelle gefunden, die verwandt erscheint oder in einigen Fällen eine Neuveröffentlichung desselben Artikels sein kann.</p> '<p class=\"text-muted small mt-2\">' Haftungsausschluss: Dieser Link wird mit der Absicht bereitgestellt, möglicherweise eine relevante Übereinstimmung anzubieten, wenn sonst keine zur Verfügung stehen würde. Da dies von Natur aus ungenau ist und wir die Übereinstimmungsmethoden noch präzisieren, stimmen möglicherweise nicht alle Quellen genau genug mit Ihren Anforderungen überein.'</p>'",
+            "error": "Fehler beim Laden des Dokuments. Wenden Sie sich für Unterstützung an einen PEP-Administrator."
+        }
+    },
+    "language": {
+        "codes": {
+            "enUS": "Englisch",
+            "esES": "Spanisch",
+            "frFR": "Französisch",
+            "deDE": "Deutsch",
+            "itIT": "Italienisch"
+        }
+    },
+    "theme": {
+        "themes": {
+            "default": "Marine (Standard)",
+            "tomato": "Tomato",
+            "dark": "Dunkel",
+            "highContrast": "Hoher Kontrast"
+        }
+    },
+    "informationBars": {
+        "settingsAuth": {
+            "title": "Um die Einstellungen zu ändern, müssen Sie angemeldet sein.",
+            "buttons": {
+                "signIn": "Anmelden"
+            }
+        },
+        "relogin": {
+            "title": "Sie wurden abgemeldet. Bitte melden Sie sich an, um Ihre Sitzung fortzusetzen.",
+            "buttons": {
+                "signIn": "Anmelden"
+            }
+        }
+    },
+    "alt": {
+        "brandingImageUrl": "Markenbild",
+        "gw": "Gesammelte Werke",
+        "se": "Standard Edition"
+    },
+    "admin": {
+        "title": "Administrator",
+        "publisher": {
+            "information": "Informationen zum Herausgeber"
+        },
+        "video": {
+            "title": "Details zum Video",
+            "url": "URL"
+        },
+        "adminSpecifiedInformation": {
+            "title": "Vom Administrator angegebene Informationen",
+            "id": "ID",
+            "value": "Wert"
+        },
+        "common": {
+            "title": "Allgemein",
+            "search": {
+                "title": "Suche",
+                "hitsInContext": {
+                    "limit": "Treffer im Kontext begrenzen"
+                },
+                "limitFields": {
+                    "isShown": "Anzahl der angezeigten Felder begrenzen"
+                },
+                "terms": {
+                    "defaults": "Standard-Sucharten"
+                }
+            },
+            "global": {
+                "searchHelpVideoUrl": "URL des Suchhilfe-Videos",
+                "cards": {
+                    "left": "Seitenleiste links",
+                    "right": "Seitenleiste rechts",
+                    "opened": "Geöffnet",
+                    "videos": {
+                        "title": "Videovorschauen"
+                    },
+                    "topicalVideos": {
+                        "title": "Thematische Videovorschauen"
+                    },
+                    "limitsTitle": "Widget-Begrenzungen",
+                    "whatsNew": {
+                        "limit": "Max. Anzahl der neuen Ergebnisse"
+                    },
+                    "mostCited": {
+                        "limit": "Max. Anzahl der meist zitierten Ergebnisse"
+                    },
+                    "mostViewed": {
+                        "limit": "Max. Anzahl der meist aufgerufenen Ergebnisse"
+                    },
+                    "glossary": {
+                        "searchLimit": "Max. Anzahl der Glossareinträge bei der Suche",
+                        "readLimit": "Max. Anzahl der Glossareinträge beim Lesen"
+                    }
+                }
+            },
+            "home": {
+                "expertPicks": {
+                    "title": "Expertenempfehlungen",
+                    "articleId": "Artikel-ID",
+                    "imageId": "Bild-ID",
+                    "table": {
+                        "article": "Artikel-ID",
+                        "image": "Bild-ID"
+                    }
+                }
+            }
+        },
+        "content": {
+            "help": {
+                "title": "Text zum Hilfesymbol",
+                "home": {
+                    "expertPickOfTheDay": "Expertenempfehlung des Tages"
+                },
+                "search": {
+                    "tooManyResults": "Zu viele Ergebnisse",
+                    "smartSearch": "Intelligente Suche",
+                    "matchSynonyms": "Übereinstimmende Synonyme",
+                    "limitTo": "Begrenzen auf",
+                    "hitsInContext": "Treffer im Kontext",
+                    "terms": {
+                        "types": {
+                            "everywhere": "Suchbegriffarten – Überall",
+                            "author": "Suchbegriffarten –  Autor",
+                            "title": "Suchbegriffarten –  Titel",
+                            "dream": "Suchbegriffarten –  Traum",
+                            "quote": "Suchbegriffarten –  Zitat",
+                            "reference": "Suchbegriffarten –  Quellenangabe",
+                            "dialog": "Suchbegriffarten –  Dialog",
+                            "article": "Suchbegriffarten –  Artikel",
+                            "startYear": "Suchbegriffarten –  Startjahr",
+                            "endYear": "Suchbegriffarten –  Endjahr"
+                        }
+                    }
+                },
+                "cards": {
+                    "viewPreview": "Videovorschau-Widget",
+                    "topicalVideoPreview": "Thematisches Videovorschau-Widget",
+                    "whatsNew": "Neuigkeiten-Widget",
+                    "mostCited": "Am-meisten-zitiert-Widget",
+                    "mostViewed": "Am-meisten-aufgerufen-Widget",
+                    "relatedDocuments": "Widget für zugehörige Dokumente",
+                    "expertPicks": "Widget Expertenempfehlungen",
+                    "glossaryTerms": "Widget für Glossarbegriffe",
+                    "moreLikeThese": "Mehr-wie-diese-Widget",
+                    "readLater": "Später-lesen-Widget",
+                    "favorites": "Favoriten-Widget",
+                    "publisherInfo": "Herausgeberinformationen-Widget"
+                }
+            },
+            "global": {
+                "adminSpecifiedInformation": {
+                    "id": "ID",
+                    "value": "Wert",
+                    "title": "Vom Administrator angegebene Informationen"
+                },
+                "tour": {
+                    "title": "Tour-Schritte",
+                    "table": {
+                        "id": "ID",
+                        "title": "Titel"
+                    },
+                    "step": {
+                        "title": "Schritt",
+                        "inputTitle": "Titel des Schritts",
+                        "inputText": "Text des Schritts"
+                    }
+                },
+                "publishers": {
+                    "title": "Herausgeber",
+                    "sourceCode": "Quellcode",
+                    "previewHTML": "HTML-Vorschau",
+                    "fullHTML": "Vollständiges HTML",
+                    "embargoYears": "Embargojahre",
+                    "url": "URL",
+                    "table": {
+                        "sourceCode": "Quellcode",
+                        "embargoYears": "Embargojahre"
+                    }
+                },
+                "signInCard": {
+                    "title": "Anmeldekarte",
+                    "body": "Body der Anmeldekarte",
+                    "groupInformation": "Header der Gruppeninformation"
+                }
+            },
+            "home": {
+                "intro": {
+                    "title": "Intro-Karten",
+                    "left": {
+                        "title": "Linke Intro-Karte"
+                    },
+                    "right": {
+                        "title": "Rechte Intro-Karte"
+                    }
+                },
+                "newsAndInfo": {
+                    "title": "Neuigkeits- und Informationskarten",
+                    "boxOne": {
+                        "title": "Neuigkeiten",
+                        "heading": "Überschrift Neuigkeiten",
+                        "body": "Body Neuigkeiten"
+                    },
+                    "boxTwo": {
+                        "title": "Informationen",
+                        "heading": "Informationen Titel",
+                        "body": "Informationen Body"
+                    }
+                }
+            }
+        }
+    },
+    "browserData": {
+        "title": "Browserdaten",
+        "heading": "Löschen Sie Ihre Browserdaten",
+        "text": "Es gibt Fälle, in denen Sie möglicherweise alle browserbasierten Daten entfernen möchten, die PEP speichert. Auf dieser Seite können Sie alle in Cookies und lokal gespeicherten Daten entfernen. Beachten Sie, dass – als bald Sie dies durchführen – alle Einstellungen, die nicht auf dem Server gespeichert wurden, verloren gehen und Sie abgemeldet werden",
+        "button": "Daten löschen"
+    },
+    "buttons": {
+        "sidebarToggle": {
+            "name": "Umschaltsymbol für die Seitenleiste",
+            "ariaLabel": "Blendet die Seitenleiste ein bzw. aus."
+        },
+        "expertPickImage": {
+            "name": "Artikelbild {id}",
+            "ariaLabel": "Artikel {id} lesen"
+        },
+        "sideBarResize": {
+            "name": "Größe der Seitenleiste ändern",
+            "ariaLabel": "Ändern Sie die Größe der Seitenleiste"
+        },
+        "nav": {
+            "help": {
+                "name": "Hilfemenü"
+            },
+            "user": {
+                "name": "Benutzermenü"
+            },
+            "admin": {
+                "name": "Administrator-Menü"
+            },
+            "facebook": {
+                "name": "PEP Facebook-Seite"
+            },
+            "home": {
+                "name": "Home",
+                "ariaLabel": "Homepage besuchen"
+            },
+            "search": {
+                "name": "Suche"
+            },
+            "read": {
+                "name": "Lesen"
+            },
+            "browse": {
+                "name": "Durchsuchen"
+            },
+            "support": {
+                "support": {
+                    "name": "Support"
+                }
+            }
+        }
+    },
+    "validations": {
+        "inclusion": "{description} ist nicht in der Liste enthalten",
+        "exclusion": "{description} ist reserviert",
+        "invalid": "{description} ist ungültig",
+        "confirmation": "{description} passt nicht mit {on} zusammen",
+        "accepted": "{description} muss akzeptiert werden",
+        "empty": "{description} kann nicht leer sein",
+        "blank": "{description} muss leer sein",
+        "present": "{description} kann nicht leer sein",
+        "collection": "{description} muss eine Sammlung sein",
+        "singular": "{description} kann keine Sammlung sein",
+        "tooLong": "{description} ist zu lang (maximal {max} Zeichen)",
+        "tooShort": "{description} ist zu kurz (Minimum sind {min} Zeichen)",
+        "between": "{description} muss zwischen {min} und {max} Zeichen sein",
+        "before": "{description} muss vor {before} sein",
+        "onOrBefore": "{description} muss in oder vor {onOrBefore} sein",
+        "after": "{description} muss nach {after} sein",
+        "onOrAfter": "{description} muss in oder nach {onOrAfter} sein",
+        "wrongDateFormat": "{description} muss im Format von {format} sein",
+        "wrongLength": "{description} ist die falsche Länge (sollte {is} Zeichen sein)",
+        "notANumber": "{description} muss eine Zahl sein",
+        "notAnInteger": "{description} muss eine ganze Zahl sein",
+        "greaterThan": "{description} muss größer sein als {gt}",
+        "greaterThanOrEqualTo": "{description} muss größer oder gleich {gte} sein",
+        "equalTo": "{description} muss gleich {is} sein",
+        "lessThan": "{description} muss kleiner sein als {lt}",
+        "lessThanOrEqualTo": "{description} muss kleiner oder gleich sein als {lte}",
+        "otherThan": "{description} muss anders sein als {value}",
+        "odd": "{description} muss ungerade sein",
+        "even": "{description} muss gerade sein",
+        "positive": "{description} muss positiv sein",
+        "multipleOf": "{description} muss ein Vielfaches von {multipleOf} sein",
+        "date": "{description} muss ein gültiges Datum sein",
+        "email": "{description} muss eine gültige E-Mail-Adresse sein",
+        "phone": "{description} muss eine gültige Telefonnummer sein",
+        "url": "{description} muss eine gültige URL sein",
+        "urlFormat": "{description} muss mit http:// oder https:// beginnen"
+    },
+    "fourOhFour": {
+        "title": "404",
+        "subtitle": "Seite wurde nicht gefunden.",
+        "message": "Die Seite, nach der Sie suchen, wurde möglicherweise entfernt oder ist vorübergehend nicht verfügbar. ☹ Bitte versuchen Sie es später erneut oder wenden Sie sich an einen Administrator, wenn das Problem weiterhin besteht."
+    },
+    "fourOhFourDocument": {
+        "title": "404",
+        "subtitle": "Dokument nicht gefunden.",
+        "report": "Fehler melden",
+        "message": "Der Artikel oder das Dokument, nach dem Sie suchen, befindet sich möglicherweise noch nicht im PEP-Archiv oder ist möglicherweise vorübergehend nicht verfügbar. Bitte überprüfen Sie die Informationen zum Dokument, versuchen Sie es später erneut oder wenden Sie sich an PEP, wenn Sie der Meinung sind, dass dieser Artikel, wie in der Dokument-ID in der URL angegeben, im Archiv fehlt."
+    },
+    "fourOhThree": {
+        "title": "403",
+        "subtitle": "Zugriff nicht gestattet.",
+        "message": "Es tut uns leid! Sie sind nicht berechtigt, auf diese Seite zuzugreifen. ☹ Wenden Sie sich an einen Administrator, wenn Sie der Meinung sind, dass dies ein Fehler ist."
+    },
+    "fiveHundred": {
+        "title": "500",
+        "subtitle": "Etwas ist schiefgegangen.",
+        "message": "Es scheint, dass ein unerwarteter Fehler aufgetreten ist ... das tut uns wirklich leid! ☹ Bitte versuchen Sie es später erneut oder wenden Sie sich an einen Administrator, wenn das Problem weiterhin besteht."
+    }
+}
