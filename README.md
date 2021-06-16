@@ -18,7 +18,7 @@ Translated Files.  Prefix Labeled as "ADMIN" and "APP" to indicate where they ar
 
 The APP files need the prefix "APP." removed from them before placing in the pep/dist/translatons folder
 
-## EarlyDrafts(Deprecated)
+## Early Drafts (Deprecated)
 
 Temporary language drafts (deprecated)
 
